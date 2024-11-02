@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "version": "1.0.0",
-  "template-name":"yaakua/game-website-template",
+  "template-name": "yaakua/game-website-template",
   "scripts": {
     "build": "turbo build",
     "build:analyze": "cross-env ANALYZE=true turbo build ",
@@ -137,6 +137,7 @@
     "next-app-theme": "^0.1.10",
     "next-intl": "^3.17.2",
     "next-mdx-remote": "^5.0.0",
+    "next-plausible": "^3.12.3",
     "next-themes": "^0.3.0",
     "nodejs": "^0.0.0",
     "pinyin-pro": "^3.24.2",
