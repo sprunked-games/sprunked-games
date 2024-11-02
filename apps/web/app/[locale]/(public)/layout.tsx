@@ -25,23 +25,23 @@ export default async function LocaleLayout({
   const messages = await getMessages();
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
-        <PlausibleProvider domain={siteConfig.domain}>
-            <NextUIProvider>
-                <Toaster />
-                <Navbar />
-                {children}
-                <Footer />
-                {!isDev && (
-          <>
-            <GoogleAnalytics gaId={siteConfig.gaId as string} />
-            <script
-              defer
-              data-domain={siteConfig.domain}
-              src="https://app.pageview.app/js/script.js"
-            ></script>
-          </>
-        )}
-      </NextUIProvider>
+      <PlausibleProvider domain={siteConfig.domain}>
+        <NextUIProvider>
+          <Toaster />
+          <Navbar />
+          {children}
+          <Footer />
+          {!isDev && (
+            <>
+              <GoogleAnalytics gaId={siteConfig.gaId as string} />
+              <script
+                defer
+                data-domain={siteConfig.domain}
+                src="https://app.pageview.app/js/script.js"
+              ></script>
+            </>
+          )}
+        </NextUIProvider>
       </PlausibleProvider>
     </NextIntlClientProvider>
   );

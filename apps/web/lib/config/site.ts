@@ -5,7 +5,7 @@ export const siteConfig = {
     icon: "/favicon.ico",
     appleIcon: "/apple-touch-icon.png",
     gameIframe: "https://scratch.mit.edu/projects/1083603932/embed",
-    domain: "https://sprunked.games",
+    domain: "sprunked.games",
     gaId: "G-P9CBW0JM2P",
     navbarItems: [
         {

@@ -29,7 +29,7 @@ export async function generateMetadata({ params: { locale = defaultLocale } }: P
   const t = await getTranslations({ locale: locale })
   
   // 构建 canonical URL
-  const baseUrl = process.env.NODE_ENV === 'development' ? 'http://localhost:8000' : siteConfig.domain
+  const baseUrl = process.env.NODE_ENV === 'development' ? 'http://localhost:8000' : `https://${siteConfig.domain}`
   const canonicalPath = locale === defaultLocale ? '/' : `/${locale}`
   
   return {
