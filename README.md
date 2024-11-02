@@ -1,65 +1,58 @@
-# 开发注意事项
-- Link必须使用项目内指定的组件，便于自动完成国际化
+# Development Notes
+- Links must use the project's specified component for automatic internationalization
 ```
 import {Link} from "@repo/i18n/navigation"
 ```
-- 当前模板代码默认只有en语言有内容，如果需要翻译成其他语言，先去火山引擎注册账号，获得豆包模型的调用key和模型名称，然后替换apps/web/.env当中的DOUBAO_API_KEY、DOUBAO_MODEL_NAME两个变量
-- 然后运行 `bun run  translate` 命令即可自动翻译en.json文件到其他语言
+- By default, the current template code only has content in English. If you need to translate to other languages, first register an account on Volcano Engine, obtain the Doubao model's API key and model name, then replace the DOUBAO_API_KEY and DOUBAO_MODEL_NAME variables in apps/web/.env
+- Then run `bun run translate` command to automatically translate the en.json file to other languages
 
-# 新游戏开发需要替换的内容
-- 替换apps/web/public下的game_screenshot.webp图片
- - 使用下面（ 网站logo设计提示词）的提示词直接在cursor当中让claude生成svg logo。命名为logo.svg存放到apps/web/public目录下
--  使用[Logo.surf](https://logo.surf/)生成 ico和icon文件
-  - 网站上选择需要的配色和字体，ico只需要两个字母即可.
-  - 下载的文件里面会包含apple-touch-icon.png\favicon.ico，直接替换apps/web/app/favicon.ico 和apps/web/app/apple-touch-icon.png
-- 替换apps/web/app/sitemap.xml 文件当中的域名为实际域名
-- 修改apps/web/.env.production 和apps/web/.env.runtime.production 文件当中的UE_WEB_URL为实际域名
-- 修改apps/web/lib/config/site.ts 文件当中的name\gameIframe\domain\gaId
- - name 为游戏名词，后续翻译也会用到
- - gameIframe 为游戏链接，如果游戏有更新，需要替换
- - domain 为实际域名，用于配置Plausible用户行为数据抓取，需要先去app.pageview.app注册域名否则不访问监控数据不生效
- - gaId 为Google分析ID
- - 使用下面提供的提示词（更换项目文案提示词）对en.json文件重新生成内容。需要先去网上收集尽可能多的游戏相关知识和文案，包括如何操作的文案。
- -en.json文件完成后，
-  - 运行bun run clean-locales 命令清理messages目录下其他语言文件(第一次需要运行，后续无需操作)
-  - 运行bun run translate 命令翻译其他语言内容
+# Content to Replace for New Game Development
+- Replace game_screenshot.webp image in apps/web/public
+- Use the prompt below (Website Logo Design Prompt) to generate an SVG logo directly in Cursor using Claude. Save as logo.svg in apps/web/public directory
+- Use [Logo.surf](https://logo.surf/) to generate ico and icon files
+  - Select desired colors and fonts on the website, ico only needs two letters
+  - The downloaded files will include apple-touch-icon.png and favicon.ico, directly replace apps/web/app/favicon.ico and apps/web/app/apple-touch-icon.png
+- Replace the domain name in apps/web/app/sitemap.xml with the actual domain
+- Modify UE_WEB_URL in apps/web/.env.production and apps/web/.env.runtime.production to the actual domain
+- Modify name\gameIframe\domain\gaId in apps/web/lib/config/site.ts
+  - name is the game name, which will also be used for translation
+  - gameIframe is the game link, needs to be updated if the game updates
+  - domain is the actual domain, used for Plausible user behavior data collection
+  - gaId is the Google Analytics ID
+- Use the prompt below (Project Copy Change Prompt) to regenerate content for en.json file
+- After completing en.json file:
+  - Run bun run clean-locales command to clean other language files in messages directory (needed first time only)
+  - Run bun run translate command to translate content to other languages
 
-
-## 部署事项
-- 代码提交到github私有仓库，然后去vercel.com 关联github仓库，并部署
-- 第一次导入的时候需要修改 
- - Frameworks 为 Next.js 否则会报错
- - Root Directory 为apps/web
- - 需要修改build命令 `cd ../.. && turbo run build --filter='*'` 否则会报错
+## Deployment Notes
+- Submit code to GitHub private repository, then connect to vercel.com and deploy
+- For first import, need to modify:
+  - Frameworks to Next.js to avoid errors
+  - Root Directory to apps/web
+  - Modify build command to `cd ../.. && turbo run build --filter='*'` to avoid errors
 ![alt text](image.png)
-- 绑定域名时，选择将wwww重定向到@
-- 在cloudflare配置cname和A记录，A记录指向vercel.app的ip地址
-| 记录类型 | 名称 | 值 |
-|---------|------|-----|
-| CNAME   | www  | cname.vercel-dns.com |
-| A       | spacewavesgame.online | 76.76.21.21 |
+- When binding domain, choose to redirect www to @
+- Configure CNAME and A records in Cloudflare, A record points to vercel.app IP address
+| Record Type | Name | Value |
+|-------------|------|-------|
+| CNAME | www | cname.vercel-dns.com |
+| A | spacewavesgame.online | 76.76.21.21 |
 
-- cloudflare绑定域名，设置自定义ssl 选择 完全（严格） 否则会出现 重定向次数过多问题
-- 如果iframe不让嵌入，就去另外找一个可以嵌入的
-- vercel部署完成后，去search.google.com\bing.com 提交收录
-## Docker私有部署
+- When binding domain in Cloudflare, set custom SSL to Full (Strict) to avoid too many redirects issue
+- If iframe embedding is not allowed, find another that can be embedded
+- After Vercel deployment, submit for indexing at search.google.com\bing.com
 
-- 构建命令需要增加--network=host,否则会提示prisma文件下载失败
+## Docker Private Deployment
+- Build command needs to add --network=host, otherwise will show Prisma file download failure
 
-
-## 更换项目文案提示词
+## Project Copy Change Prompt
 ```
-我正在开发一个新的游戏，名字叫："Escape Road" 。请基于我提供的一些有关这个游戏的文案素材，重新填充这个en.json文件里面的内容。这个en.json文件内容是给desc.tsx和home.tsx这两个组件提供国际化内容使用。请结合这个两个组件的代码结构统筹分析生成合理的文案内容。
+I'm developing a new game called "Escape Road". Please refill the content in this en.json file based on the copy materials I provide about this game. The en.json file content is used for internationalization in desc.tsx and home.tsx components. Please analyze and generate appropriate copy content based on the structure of these two components.
 
-注意事项：
-1. 需要保证游戏名字"Escape Road"这个词的词密度最高，可以在合适的地方增加这个词的频率。
-2.生成的文案内容必须来自我提供的内容里面，不可瞎编乱造。
-3.先理解原先文案的内容含义和作用，再从我提供的文案当中找到合适的内容去替换（目的是尽可能的保证原有的网页结构不变，但更换成新的内容）
+Notes:
+1. Ensure the highest word density for the game name "Escape Road" by increasing its frequency where appropriate.
+2. Generated copy must come from the content I provide, no making things up.
+3. First understand the meaning and purpose of the original copy, then find suitable content from the provided materials to replace it (goal is to maintain the original webpage structure while updating with new content)
 
-提供的文案内容：
-
-
-```
-
-
+Provided copy content:
 
