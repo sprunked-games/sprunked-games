@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Vytvoř, Míchej, Zažij Kouzlo!",
+  "description": "Ponoř se do očarujícího světa Sprunked, kde tvorba hudby se setkává s inovací prostřednictvím našeho jedinečného systému herního průběhu založeného na scratchech.",
+  "Loading": {
+    "title": "Načítání Sprunked..."
+  },
+  "Home": {
+    "title": "Vítejte v Sprunked",
+    "description": "Objevte očarující svět Sprunked, což je fascinující hra, která kombinuje nejlepší prvky hudební kreativity. Díky našemu inovativnímu systému herního průběhu založenému na scratchech budete mít možnost vytvářet mimořádnou hudbu jako nikdy předtím. Jednoduše scratchejte povrch, abyste objevili skryté zvuky a efekty, a sledujte, jak se vaše hudební vizionářství formuje.",
+    "playNow": "Hrajte Sprunked Teď",
+    "learnMore": "Zjistěte Více o Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Celá obrazovka",
+    "shareButton": "Sdílejte Sprunked",
+    "urlCopied": "URL Sprunked zkopírována do schránky!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Co je Sprunked?",
+    "whatIsDescription": "Sprunked je ohromující platforma pro tvorbu hudby, která vám umožňuje dirigovat originální rytmy pomocí výstředních postav. Je to ponořující a zábavné zážitko, které uvolňuje váš kreativní potenciál prostřednictvím intuitivního, založeného na scratchech herního průběhu.",
+    "howToPlayTitle": "Jak Hrat Sprunked?",
+    "howToPlayStep1": "Vyberte postavy, každá s jedinečnými zvuky (rytmy, vokály, efekty)",
+    "howToPlayStep2": "Použijte rozhraní pro scratcheování, abyste objevili skryté zvuky a efekty",
+    "howToPlayStep3": "Smíchejte a kombinujte prvky, abyste vytvořili své vlastní hudební dílo",
+    "keyFeaturesTitle": "Výhody Hry Sprunked",
+    "feature1Title": "Bezproblémové Rozhraní pro Scratcheování",
+    "feature1Description": "Ponořte se do tvorby hudby pomocí našeho intuitivního, zaměřeného na uživatele designu, který zkompozování dělá lehké.",
+    "feature2Title": "Rozmanitá Knihovna Zvuků",
+    "feature2Description": "Uvolněte svůj umělecký potenciál pomocí našeho různorodého množství výstředních a očarujících zvukových prvků.",
+    "feature3Title": "Neomezená Hudební Prozkoumávání",
+    "feature3Description": "Začněte cestu zvukové objevování, vytvářejte jedinečné skladby omezené pouze vaší představivostí.",
+    "feature4Title": "Zvýrazněte Vaše Vytváření",
+    "feature4Description": "Uchovejte a vysílujte své hudební dílo, sdílejte je s blízkými kruhy nebo uvedte je do digitálního prostoru.",
+    "controlsTitle": "Ovládání a Tipy pro Sprunked",
+    "movementControlsTitle": "Základní Ovládání",
+    "movementControl1": "Použijte pohyby scratcheování, abyste odhalili zvuky",
+    "movementControl2": "Přetáhněte a položte prvky, abyste vytvořili hudbu",
+    "interactionControlsTitle": "Vytváření Zvuku",
+    "interactionControl1": "Složte různé zvuky, abyste vytvořili složitost",
+    "interactionControl2": "Experimentujte s různými kombinacemi",
+    "interactionControl3": "Použijte rozhraní pro scratcheování, abyste objevili skryté efekty",
+    "combatControlsTitle": "Mechaniky Hudby",
+    "combatControl1": "Vytvořte rytmické vzorce",
+    "combatControl2": "Smíchejte různé zvukové prvky",
+    "combatControl3": "Objevte zvláštní kombinace zvuků",
+    "combatControl4": "Vytvořte složené skladby",
+    "miscControlsTitle": "Pokročilé Techniky",
+    "miscControl1": "Ovládejte mechaniky scratcheování",
+    "miscControl2": "Prozkoumejte kombinace zvuků",
+    "miscControl3": "Vytvořte složité hudební uspořádání"
+  }
+}

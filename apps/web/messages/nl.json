@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Creëer, Mix, Ervaar de Magie!",
+  "description": "Duw jezelf onder in de betoverende wereld van Sprunked, waar muziek maken samenkomt met innovatie door ons unieke scratchen-gebaseerd gameplay-systeem.",
+  "Loading": {
+    "title": "Sprunked wordt geladen..."
+  },
+  "Home": {
+    "title": "Welkom bij Sprunked",
+    "description": "Ontdek de betoverende wereld van Sprunked, een fascinerende game die de beste elementen van muzikale creativiteit combineert. Met ons innovatieve scratchen-gebaseerd gameplay, heb je de kracht om ongewoon muziek te maken zoals nooit tevoren. Schraap gewoon aan de oppervlakte om verborgen geluiden en effecten te ontdekken, en kijk hoe je muzikale visie vorm krijgt.",
+    "playNow": "Speel Sprunked Nu",
+    "learnMore": "Leer Meer over Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Volledig Scherm",
+    "shareButton": "Delen Sprunked",
+    "urlCopied": "Sprunked-URL gekopieerd naar het klembord!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Wat is Sprunked?",
+    "whatIsDescription": "Sprunked is een betoverende muzikale creatieplatform waarmee je onderscheidende ritmes kunt orkestreren met excentrieke personages. Het is een meeslepende en vermakelijke ervaring die je creatieve potentieel vrijlaat door middel van intuïtief, scratchen-gebaseerd gameplay.",
+    "howToPlayTitle": "Hoe Speel Je Sprunked?",
+    "howToPlayStep1": "Selecteer personages, elk met unieke geluiden (beats, vocals, effecten)",
+    "howToPlayStep2": "Gebruik het scratchen-interface om verborgen geluiden en effecten te ontdekken",
+    "howToPlayStep3": "Mix en match elementen om je eigen muzikale meesterwerk te maken",
+    "keyFeaturesTitle": "Game Highlights van Sprunked",
+    "feature1Title": "Naadloos Scratchen-Interface",
+    "feature1Description": "Duw jezelf onder in muziek maken met ons intuïtieve, gebruikersgericht ontwerp dat componeren eenvoudig maakt.",
+    "feature2Title": "Eclectische Geluidbibliotheek",
+    "feature2Description": "Ontgrendel je artistieke potentieel met onze uiteenlopende verzameling wispelturige en betoverende audio-elementen.",
+    "feature3Title": "Onbeperkte Muzikale Ontdekking",
+    "feature3Description": "Ga op reis van sonische ontdekking, creëer unieke composities alleen beperkt door je verbeelding.",
+    "feature4Title": "Versterk Je Creaties",
+    "feature4Description": "Bewaar en uitzend je muzikale meesterwerken, deel ze met je dichtste kring of lanceer ze in de digitale ruimte.",
+    "controlsTitle": "Sprunked Bedieningen en Tips",
+    "movementControlsTitle": "Basisbedieningen",
+    "movementControl1": "Gebruik scratchen-gebaren om geluiden te onthullen",
+    "movementControl2": "Sleep en laat elementen vallen om muziek te maken",
+    "interactionControlsTitle": "Geluidscreatie",
+    "interactionControl1": "Laag verschillende geluiden om complexiteit te bouwen",
+    "interactionControl2": "Experimenteer met verschillende combinaties",
+    "interactionControl3": "Gebruik het scratchen-interface om verborgen effecten te ontdekken",
+    "combatControlsTitle": "Muziekmechanica",
+    "combatControl1": "Creëer ritmische patronen",
+    "combatControl2": "Mix verschillende geluidelementen",
+    "combatControl3": "Ontdek speciale geluidskombinaties",
+    "combatControl4": "Bouw gelaagde composities",
+    "miscControlsTitle": "Geavanceerde Technieken",
+    "miscControl1": "Meester het scratchen-mechanica",
+    "miscControl2": "Ontdek geluidskombinaties",
+    "miscControl3": "Creëer complexe muzikale arrangementen"
+  }
+}

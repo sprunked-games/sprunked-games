@@ -1,7 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
-  <rect width="100%" height="100%" fill="none"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
-    <tspan fill="#FF4500">Sprunki</tspan>
-    <tspan dx="5" fill="#008000">Infected</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <!-- 背景圆角矩形 -->
+  <rect 
+    x="20" 
+    y="20" 
+    width="360" 
+    height="80" 
+    rx="20" 
+    ry="20" 
+    fill="#ec008c"
+  />
+  
+  <!-- 内层装饰圆角矩形 -->
+  <rect 
+    x="25" 
+    y="25" 
+    width="350" 
+    height="70" 
+    rx="15" 
+    ry="15" 
+    fill="none" 
+    stroke="white" 
+    stroke-width="2"
+    opacity="0.3"
+  />
+  
+  <!-- 主文字 -->
+  <text 
+    x="200" 
+    y="75" 
+    font-family="Arial, sans-serif" 
+    font-size="45" 
+    font-weight="bold" 
+    text-anchor="middle" 
+    fill="white"
+    style="text-transform: lowercase;">
+    sprunked
   </text>
+  
+  <!-- 装饰点缀 -->
+  <circle cx="45" cy="40" r="3" fill="white" opacity="0.6"/>
+  <circle cx="355" cy="80" r="3" fill="white" opacity="0.6"/>
+  <circle cx="45" cy="80" r="3" fill="white" opacity="0.6"/>
+  <circle cx="355" cy="40" r="3" fill="white" opacity="0.6"/>
 </svg>

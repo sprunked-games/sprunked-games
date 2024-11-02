@@ -39,3 +39,5 @@ Thumbs.db
 # 缓存目录
 .cache/
 apps/web/.env.local
+
+.env

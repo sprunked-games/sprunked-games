@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Tạo, Trộn, Duyệt qua Sự Thần Thoại!",
+  "description": "Chìm sâu vào thế giới quyến rũ của Sprunked, nơi việc tạo âm nhạc gặp gỡ sự đổi mới thông qua hệ thống chơi dựa trên scratche độc đáo của chúng tôi.",
+  "Loading": {
+    "title": "Đang tải Sprunked..."
+  },
+  "Home": {
+    "title": "Chào mừng đến với Sprunked",
+    "description": "Khám phá thế giới quyến rũ của Sprunked, một trò chơi thu hút người chơi kết hợp các yếu tố tốt nhất của sáng tạo âm nhạc. Với hệ thống chơi scratche độc đáo và sáng tạo của chúng tôi, bạn sẽ có khả năng tạo ra âm nhạc phi thường như chưa từng có. Dễ dàng scratche bề mặt để tìm ra những âm thanh và hiệu ứng ẩn, và xem như tầm nhìn âm nhạc của bạn hình thành.",
+    "playNow": "Chơi Sprunked ngay",
+    "learnMore": "Tìm hiểu thêm về Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Toàn màn hình",
+    "shareButton": "Chia sẻ Sprunked",
+    "urlCopied": "Đường dẫn Sprunked đã được sao chép vào clipboard!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Sprunked là gì?",
+    "whatIsDescription": "Sprunked là một nền tảng tạo âm nhạc hấp dẫn cho phép bạn điều hành các nhịp điệu độc đáo bằng cách sử dụng các nhân vật kỳ cục. Đó là một trải nghiệm thấm đẫm và giải trí giải phóng tiềm năng sáng tạo của bạn thông qua hệ thống chơi scratche trực quan.",
+    "howToPlayTitle": "Cách chơi Sprunked như thế nào?",
+    "howToPlayStep1": "Chọn nhân vật, mỗi nhân vật có những âm thanh duy nhất (nhịp điệu, giọng hát, hiệu ứng)",
+    "howToPlayStep2": "Sử dụng giao diện scratche để tìm ra những âm thanh và hiệu ứng ẩn",
+    "howToPlayStep3": "Trộn và kết hợp các phần tử để tạo ra tác phẩm âm nhạc của riêng bạn",
+    "keyFeaturesTitle": "Điểm nổi bật của trò chơi Sprunked",
+    "feature1Title": "Giao diện Scratche Không Gặp Gỡ",
+    "feature1Description": "Chìm sâu vào việc tạo âm nhạc với thiết kế trực quan, hướng người dùng của chúng tôi khiến việc soạn nhạc trở nên dễ dàng.",
+    "feature2Title": "Thư viện Âm Thanh Đa Dạng",
+    "feature2Description": "Mở khóa tiềm năng nghệ thuật của bạn với hàng loạt các phần tử âm thanh kỳ ảo và thu hút.",
+    "feature3Title": "Khám phá Âm nhạc Không Giới Hạn",
+    "feature3Description": "Bắt đầu hành trình khám phá âm thanh, tạo ra các tác phẩm độc đáo chỉ bị giới hạn bởi trí tưởng tượng của bạn.",
+    "feature4Title": "Tăng cường Tác phẩm của bạn",
+    "feature4Description": "Giữ và phát sóng tác phẩm âm nhạc của bạn, chia sẻ chúng với những người thân hoặc đưa chúng vào không gian kỹ thuật số.",
+    "controlsTitle": "Các điều khiển và mẹo của Sprunked",
+    "movementControlsTitle": "Các điều khiển cơ bản",
+    "movementControl1": "Sử dụng cử chỉ scratche để tiết lộ âm thanh",
+    "movementControl2": "Kéo và thả các phần tử để tạo âm nhạc",
+    "interactionControlsTitle": "Tạo âm thanh",
+    "interactionControl1": "Lớp các âm thanh khác nhau để tạo độ phức tạp",
+    "interactionControl2": "Thử nghiệm với các tổ hợp khác nhau",
+    "interactionControl3": "Sử dụng giao diện scratche để tìm ra hiệu ứng ẩn",
+    "combatControlsTitle": "Cơ chế âm nhạc",
+    "combatControl1": "Tạo ra các mẫu nhịp điệu",
+    "combatControl2": "Trộn các phần tử âm thanh khác nhau",
+    "combatControl3": "Tìm ra các tổ hợp âm thanh đặc biệt",
+    "combatControl4": "Xây dựng các tác phẩm có nhiều lớp",
+    "miscControlsTitle": "Các kỹ thuật nâng cao",
+    "miscControl1": "Chuyên nghiệp về cơ chế scratche",
+    "miscControl2": "Khám phá các tổ hợp âm thanh",
+    "miscControl3": "Tạo ra các bố cục âm nhạc phức tạp"
+  }
+}

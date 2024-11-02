@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Erstellen, Mischen, die Magie erleben!",
+  "description": "Tauch in die bezaubernde Welt von Sprunked ein, wo Musikschaffung durch unser einzigartiges, auf Scratching basierendes Gameplay-System mit Innovation vereint wird.",
+  "Loading": {
+    "title": "Sprunked wird geladen..."
+  },
+  "Home": {
+    "title": "Willkommen bei Sprunked",
+    "description": "Entdecke die bezaubernde Welt von Sprunked, einem fesselnden Spiel, das die besten Elemente der musikalischen Kreativität vereint. Mit unserem innovativen, auf Scratching basierenden Gameplay hast du die Macht, außergewöhnliche Musik wie nie zuvor zu schaffen. Scratch einfach die Oberfläche, um verborgene Klänge und Effekte zu entdecken und beobachte, wie sich deine musikalische Vision formiert.",
+    "playNow": "Sprunked jetzt spielen",
+    "learnMore": "Erfahre mehr über Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Vollbild",
+    "shareButton": "Sprunked teilen",
+    "urlCopied": "Die Sprunked-URL wurde in die Zwischenablage kopiert!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Was ist Sprunked?",
+    "whatIsDescription": "Sprunked ist eine faszinierende musikalische Schaffungsplattform, die es dir ermöglicht, einzigartige Rhythmen mit exzentrischen Charakteren zu orchestrieren. Es ist ein immersives und unterhaltsames Erlebnis, das dein kreatives Potenzial durch intuitives, auf Scratching basierendes Gameplay freisetzt.",
+    "howToPlayTitle": "Wie spielt man Sprunked?",
+    "howToPlayStep1": "Wähle Charaktere aus, jeder mit einzigartigen Klängen (Beats, Gesang, Effekte)",
+    "howToPlayStep2": "Benutze die Scratch-Oberfläche, um verborgene Klänge und Effekte zu entdecken",
+    "howToPlayStep3": "Mische und kombiniere Elemente, um dein eigenes musikalisches Meisterwerk zu schaffen",
+    "keyFeaturesTitle": "Spielhighlights von Sprunked",
+    "feature1Title": "Flüssige Scratch-Oberfläche",
+    "feature1Description": "Tauch in die Musikschaffung mit unserem intuitiven, nutzerfreundlichen Design ein, das das Komponieren zum Kinderspiel macht.",
+    "feature2Title": "Buntes Klangarchiv",
+    "feature2Description": "Entfessle dein künstlerisches Potenzial mit unserer vielfältigen Sammlung von wunderbaren und fesselnden Audioelementen.",
+    "feature3Title": "Grenzenlose musikalische Entdeckungsreise",
+    "feature3Description": "Begib dich auf eine Reise der Klangerkundung und erschaffe einzigartige Kompositionen, nur begrenzt durch deine Vorstellungskraft.",
+    "feature4Title": "Deine Kreationen verstärken",
+    "feature4Description": "Bewahre und verbreite deine musikalischen Meisterwerke, teile sie mit deinen engsten Kreisen oder lass sie in die digitale Welt hinausschwingen.",
+    "controlsTitle": "Sprunked-Steuerungen und Tipps",
+    "movementControlsTitle": "Grundlegende Steuerungen",
+    "movementControl1": "Benutze Scratch-Gesten, um Klänge zu enthüllen",
+    "movementControl2": "Ziehe und lasse Elemente fallen, um Musik zu schaffen",
+    "interactionControlsTitle": "Klangschaffung",
+    "interactionControl1": "Lage verschiedene Klänge übereinander, um Komplexität zu schaffen",
+    "interactionControl2": "Experimentiere mit verschiedenen Kombinationen",
+    "interactionControl3": "Benutze die Scratch-Oberfläche, um verborgene Effekte zu entdecken",
+    "combatControlsTitle": "Musikmechaniken",
+    "combatControl1": "Erschaffe rhythmische Muster",
+    "combatControl2": "Mische verschiedene Klangelemente",
+    "combatControl3": "Entdecke besondere Klangkombinationen",
+    "combatControl4": "Erstelle geschichtete Kompositionen",
+    "miscControlsTitle": "Fortgeschrittene Techniken",
+    "miscControl1": "Beherrsche die Scratch-Mechaniken",
+    "miscControl2": "Erkunde Klangkombinationen",
+    "miscControl3": "Erstelle komplexe musikalische Anordnungen"
+  }
+}

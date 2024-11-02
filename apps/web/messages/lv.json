@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Izveido, sajauc, piedzīvojiet magiju!",
+  "description": "Iegūstiet iespaidīgu ieskatu Sprunked pasaulē, kur mūzikas izveide sastopas ar inovāciju, izmantojot mūsu unikālo, balstītu uz scratču spēļu sistēmu.",
+  "Loading": {
+    "title": "Ielādē Sprunked..."
+  },
+  "Home": {
+    "title": "Laipni lūdzam Sprunked",
+    "description": "Atklājiet Sprunked iespaidīgo pasauli, aizraujošu spēli, kas apvieno labākos mūzikas radošības elementus. Ar mūsu inovatīvo, balstītu uz scratču spēļu režīmu, jūs varat izveidot ārkārtīgas mūzikas kā nekad agrāk. Vienkārši scratējiet virsmas, lai atklātu slēptos skaņus un efekti un vērojiet, kā jūsu mūzikas redzējums ieņem formas.",
+    "playNow": "Spēlējiet Sprunked tagad",
+    "learnMore": "Uzziniet vairāk par Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Pilnekrāna",
+    "shareButton": "Daliet Sprunked",
+    "urlCopied": "Sprunked URL kopēts uz ciparplūsmu!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Kas ir Sprunked?",
+    "whatIsDescription": "Sprunked ir aizraujoša mūzikas izveides platforma, kas ļauj jums orchestēt izcilus ritmusus, izmantojot ekscentriskus personāžus. Tas ir iespaidīgs un izklaidošs pieredze, kas atklāj jūsu radošo potenciālu, izmantojot intuitīvu, balstītu uz scratču spēļu režīmu.",
+    "howToPlayTitle": "Kā spēlēt Sprunked?",
+    "howToPlayStep1": "Izvēlieties personāžus, katrs ar unikāliem skaņiem (ritmiem, vokāliem, efektiem)",
+    "howToPlayStep2": "Izmanto scratču saskarne, lai atklātu slēptos skaņus un efekti",
+    "howToPlayStep3": "Sajauc un pielīdzinājiet elementus, lai izveidotu savu mūzikas meistarīgo darbu",
+    "keyFeaturesTitle": "Sprunked spēles īpašības",
+    "feature1Title": "Nepārtraukta scratču saskarne",
+    "feature1Description": "Iegūstiet iespaidīgu ieskatu mūzikas izveidei, izmantojot mūsu intuitīvu, lietotāja centrētu dizainu, kas padara kompozīciju vienkāršu.",
+    "feature2Title": "Daudzveidīga skaņu bibliotēka",
+    "feature2Description": "Atklājiet savu mākslas potenciālu, izmantojot mūsu daudzveidīgo, izklaidošu un aizraujošu skaņu elementu masīvu.",
+    "feature3Title": "Bezgalīga mūzikas izpēte",
+    "feature3Description": "Uzsākt ceļu pēc skaņu atklāšanas, radot unikālas kompozīcijas, kuras ierobežojums ir tikai jūsu iztēle.",
+    "feature4Title": "Pārvērst jūsu izveides",
+    "feature4Description": "Saglabājiet un pārraidiet jūsu mūzikas meistarīgos darbus, daloties ar tuvajiem cilvēkiem vai izsniedzot tos digitālajā telpā.",
+    "controlsTitle": "Sprunked kontroles un padomi",
+    "movementControlsTitle": "Pamata kontroles",
+    "movementControl1": "Izmanto scratču žestus, lai atklātu skaņus",
+    "movementControl2": "Velciet un nolaižiet elementus, lai izveidotu mūzikas",
+    "interactionControlsTitle": "Skaņu izveide",
+    "interactionControl1": "Sagatavo dažādus skaņus, lai izveidotu sarežģītību",
+    "interactionControl2": "Pārbaudiet dažādas kombinācijas",
+    "interactionControl3": "Izmanto scratču saskarne, lai atklātu slēptos efekti",
+    "combatControlsTitle": "Mūzikas mehānismi",
+    "combatControl1": "Izveidojiet ritmiskas modeļus",
+    "combatControl2": "Sajauc dažādus skaņu elementus",
+    "combatControl3": "Atklājiet īpašas skaņu kombinācijas",
+    "combatControl4": "Izveidojiet slēgtās kompozīcijas",
+    "miscControlsTitle": "Pārslēgto tehniku",
+    "miscControl1": "Mācīties scratču mehānismu",
+    "miscControl2": "Izpētiet skaņu kombinācijas",
+    "miscControl3": "Izveidojiet sarežģītas mūzikas izvietojumus"
+  }
+}

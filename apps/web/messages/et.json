@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Loo, segi, kogeni võluvust!",
+  "description": "Lohkuge Sprunked'i mõnusasse maailma, kus muusika loomine kohtub uuendusega meie ainulaadse kraatamise põhineva mängusüsteemi kaudu.",
+  "Loading": {
+    "title": "Sprunked laadimine..."
+  },
+  "Home": {
+    "title": "Tere tulemast Sprunkedisse",
+    "description": "Avasta Sprunked'i mõnus maailm, pühendav mäng, mis segab muusikalise loovuse parimaid elemendid. Meie uuenduslik kraatamise põhineva mänguplaani abil on teil võim võtta oma muusikalist nägemust ellu nagu kunagi varem. Lihtsalt kraatage pinna, et avastada salajased helid ja efekti, ning vaata, kuidas teie muusikaline nägemus kujuneb.",
+    "playNow": "Mängi Sprunked nüüd",
+    "learnMore": "Loe rohkem Sprunkedist",
+    "iframeTitle": "sprunked-mäng-iframe",
+    "fullscreenButton": "Täiskraan",
+    "shareButton": "Jaga Sprunked",
+    "urlCopied": "Sprunked'i URL on kopeeritud lõikelauale!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Mis on Sprunked?",
+    "whatIsDescription": "Sprunked on põnev muusikaline loomise platvorm, mis võimaldab teil orkestreerida erilisi ritmeid kasutades eksentrilisi tegelasi. See on sissejuhatav ja meeldiv kogemus, mis vabastab teie loovusse võime meie intuitiivse, kraatamise põhineva mänguplaani kaudu.",
+    "howToPlayTitle": "Kuidas mängida Sprunkedit?",
+    "howToPlayStep1": "Valige tegelased, igaüks oma ainulaadsed helid (takid, laul, efekti)",
+    "howToPlayStep2": "Kasutage kraatamise liidest, et avastada salajased helid ja efekti",
+    "howToPlayStep3": "Segi ja ühenda elemendid, et luua oma muusikaline meistriöö",
+    "keyFeaturesTitle": "Sprunked'i mängu tähelepanuväärsused",
+    "feature1Title": "Puhas kraatamise liides",
+    "feature1Description": "Lohkuge muusika loomisse meie intuitiivse, kasutaja keskse disaini abil, mis muudab komponeerimist lihtsaks.",
+    "feature2Title": "Mitmekesine heliraamatukogu",
+    "feature2Description": "Ava oma kunstilise potentsiaali meie erineva hulga võluvate ja pühendavate helielemendi abil.",
+    "feature3Title": "Piiratu muusikaline uurimine",
+    "feature3Description": "Alusta heliuurimise teekonna, looma ainulaadsed kooslused, mida piiritleb ainult teie meeldivkus.",
+    "feature4Title": "Suurenda oma loominguid",
+    "feature4Description": "Salvesta ja edasta oma muusikalised meistriöööd, jagades neid lähedaste ringkondadega või saatis neid digitaalsele ruumile.",
+    "controlsTitle": "Sprunked'i juhtimine ja nõuanded",
+    "movementControlsTitle": "Põhilised juhtimised",
+    "movementControl1": "Kasutage kraatamise käigud, et näidata helisid",
+    "movementControl2": "Lohistage ja laske elemendid, et luua muusika",
+    "interactionControlsTitle": "Heli loomine",
+    "interactionControl1": "Kihi erinevad helid, et kujundada keerukust",
+    "interactionControl2": "Katsetage erinevaid kombinatsioone",
+    "interactionControl3": "Kasutage kraatamise liidest, et avastada salajased efekti",
+    "combatControlsTitle": "Muusika mehhanikad",
+    "combatControl1": "Loo ritmilised mustrid",
+    "combatControl2": "Segi erinevad helielemendid",
+    "combatControl3": "Avasta erilised heli kombinatsioonid",
+    "combatControl4": "Kujunda kihi kooslused",
+    "miscControlsTitle": "Põhimõtted kõrgematele tehnikatele",
+    "miscControl1": "Meisterdage kraatamise mehhanikad",
+    "miscControl2": "Uurige heli kombinatsioonid",
+    "miscControl3": "Loo keerukad muusikalised korraldus"
+  }
+}

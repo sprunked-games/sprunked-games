@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Sukurk, maišyk, patyrk į magiją!",
+  "description": "Nukreipkitės į įspūdingą Sprunked pasaulį, kur muzikos kūrimas susitinka su naujovėmis per mūsų unikalią žadinimo pagrindą pagrįstą žaidimo sistemą.",
+  "Loading": {
+    "title": "Sprunked įkeliama..."
+  },
+  "Home": {
+    "title": "Sveiki į Sprunked",
+    "description": "Atrask įspūdingą Sprunked pasaulį, įtraukiantį žaidimą, kuris sujungia geriausias muzikos kūrybos elementus. Su mūsų inovatyvia žadinimo pagrindu pagrįsta žaidimo mechanika, galėsite kurti nepaprastą muziką kaip niekada prieš tai. Paprasčiausiai žadink paviršių, kad atrakintumėte slėptus garsus ir efektus, ir stebėkite, kaip jūsų muzikinė vizija susiformuoja.",
+    "playNow": "Žaisti Sprunked Dabar",
+    "learnMore": "Sužinoti daugiau apie Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Viso ekrano režimas",
+    "shareButton": "Dalintis Sprunked",
+    "urlCopied": "Sprunked adresas nukopijuotas į iškarpinę lentelę!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Kas yra Sprunked?",
+    "whatIsDescription": "Sprunked yra įtraukiantis muzikos kūrimo platforma, kuri leidžia jus orkestruoti išskirtinius ritmusus naudojant išsiskirtines figūras. Tai įtraukianti ir žavausi patirtis, atveriantis jūsų kūrybinį potencialą per intuityvią, žadinimo pagrindu pagrįstą žaidimo mechaniką.",
+    "howToPlayTitle": "Kaip žaisti Sprunked?",
+    "howToPlayStep1": "Pasirinkite figūras, kurių kiekviena turi unikalius garsus (ritmusus, vokales, efektus)",
+    "howToPlayStep2": "Naudokite žadinimo sąsają, kad atrakintumėte slėptus garsus ir efektus",
+    "howToPlayStep3": "Maišykite ir derinkite elementus, kad sukurtumėte savo muzikalinį meistražą",
+    "keyFeaturesTitle": "Sprunked žaidimo išskirtiniai bruožai",
+    "feature1Title": "Neblokavimo žadinimo sąsaja",
+    "feature1Description": "Nukreipkitės į muzikos kūrimą su mūsų intuityvia, vartotojo centriška dizaine, kuris padeda komponuoti lengvai.",
+    "feature2Title": "Išsiskirtinė garsų biblioteka",
+    "feature2Description": "Atverkite savo meninę potencialą su mūsų įvairiausia įdomių ir įtraukiantių garso elementų rinkinys.",
+    "feature3Title": "Be ribų muzikinė eksploracija",
+    "feature3Description": "Pradėkite kelionę į garso atradimų, kurdami unikalias kompozicijas, ribojamų tik jūsų vaizduotės.",
+    "feature4Title": "Padidinti savo kūriniai",
+    "feature4Description": "Saugokite ir paskelbite savo muzikalinį meistražą, dalindamiesi su artimaisiais arba išleidę į skaitmeninę sferą.",
+    "controlsTitle": "Sprunked valdymas ir patarimai",
+    "movementControlsTitle": "Pagrindiniai valdymai",
+    "movementControl1": "Naudokite žadinimo žestus, kad atrakintumėte garsus",
+    "movementControl2": "Tempkite ir numetkite elementus, kad sukurtumėte muziką",
+    "interactionControlsTitle": "Garsų kūrimas",
+    "interactionControl1": "Sluoksniuokite įvairius garsus, kad sukurtumėte sudėtingumą",
+    "interactionControl2": "Eksperimentuokite su įvairiais deriniais",
+    "interactionControl3": "Naudokite žadinimo sąsają, kad atrakintumėte slėptus efektus",
+    "combatControlsTitle": "Muzikos mechanikai",
+    "combatControl1": "Sukurkite ritminius modelius",
+    "combatControl2": "Maišykite įvairius garsų elementus",
+    "combatControl3": "Atraskite specialius garsų derinius",
+    "combatControl4": "Sukurkite sluoksninius kompozicijas",
+    "miscControlsTitle": "Pavyzdžiai iš advanced teknikų",
+    "miscControl1": "Išmokite žadinimo mechaniką",
+    "miscControl2": "Eksperimentuokite su garsų deriniais",
+    "miscControl3": "Sukurkite sudėtingas muzikinės orchestravimo struktūras"
+  }
+}

@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Skapa, Blanda, Upplev Magin!",
+  "description": "Dyk in i den förtrollande världen av Sprunked, där musikskapande möter innovation genom vårt unika spelssystem baserat på scratchen.",
+  "Loading": {
+    "title": "Laddar Sprunked..."
+  },
+  "Home": {
+    "title": "Välkommen till Sprunked",
+    "description": "Upptäck den förtrollande världen av Sprunked, ett fängslande spel som blandar de bästa elementen av musikaliskt skapande. Med vårt innovativa scratchen-baserade spelupplevelse kommer du att ha möjlighet att skapa extraordinär musik som aldrig tidigare. Bara scratcha på ytan för att upptäcka dolda ljud och effekter och se hur din musikaliska vision tar form.",
+    "playNow": "Spela Sprunked Nu",
+    "learnMore": "Lär Dig Mer om Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Helskärm",
+    "shareButton": "Dela Sprunked",
+    "urlCopied": "Sprunked-URL kopierad till urklipp!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Vad är Sprunked?",
+    "whatIsDescription": "Sprunked är en fascinerande musikskapande plattform som låter dig komponera unika rytmer med excentriska karaktärer. Det är en engagerande och underhållande upplevelse som frigör din kreativa potential genom intuitiv, scratchen-baserad spelupplevelse.",
+    "howToPlayTitle": "Hur Spelas Sprunked?",
+    "howToPlayStep1": "Välj karaktärer, var och en med unika ljud (slag, sång, effekter)",
+    "howToPlayStep2": "Använd scratchen-gränssnittet för att upptäcka dolda ljud och effekter",
+    "howToPlayStep3": "Blanda och matcha element för att skapa ditt eget musikaliskt mästerverk",
+    "keyFeaturesTitle": "Spelhöjdpunkter i Sprunked",
+    "feature1Title": "Smidig Scratchen-gränssnitt",
+    "feature1Description": "Dyk in i musikskapande med vår intuitiva, användarvänliga design som gör att komponera är lätt.",
+    "feature2Title": "Omtänksamt Ljudbibliotek",
+    "feature2Description": "Upplås din konstnärliga potential med vår mångfald av underliga och fängslande ljudelement.",
+    "feature3Title": "Obegränsad Musikaliskt Utforskning",
+    "feature3Description": "Börja en resa av ljudupptäckt, skapa unika kompositioner endast begränsade av din fantasi.",
+    "feature4Title": "Förstärka Dina Skapelser",
+    "feature4Description": "Bevara och sända ut dina musikaliska mästerverk, dela dem med nära kretsar eller lansera dem i digitala sfären.",
+    "controlsTitle": "Sprunked Kontroller och Tips",
+    "movementControlsTitle": "Grundläggande Kontroller",
+    "movementControl1": "Använd scratchen-gesturer för att avslöja ljud",
+    "movementControl2": "Dra och släpp element för att skapa musik",
+    "interactionControlsTitle": "Ljudskapande",
+    "interactionControl1": "Lägga olika ljud för att bygga komplexitet",
+    "interactionControl2": "Experimentera med olika kombinationer",
+    "interactionControl3": "Använd scratchen-gränssnittet för att upptäcka dolda effekter",
+    "combatControlsTitle": "Musikmekanik",
+    "combatControl1": "Skapa rytmiska mönster",
+    "combatControl2": "Blanda olika ljudelement",
+    "combatControl3": "Upptäck speciella ljudkombinationer",
+    "combatControl4": "Bygga lagerkompositioner",
+    "miscControlsTitle": "Avancerade Tekniker",
+    "miscControl1": "Mästera scratchen-mechanik",
+    "miscControl2": "Utforska ljudkombinationer",
+    "miscControl3": "Skapa komplexa musikaliska arrangemang"
+  }
+}

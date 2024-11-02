@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Luo, sekoita, kokenutta taikaa!",
+  "description": "Aloita matkasi Sprunkedin viehättävään maailmaan, jossa musiikin luominen kohtaa innovointi meidän ainutlaatuisen raaputusta - perustuvan pelimekaniikan kautta.",
+  "Loading": {
+    "title": "Ladataan Sprunked..."
+  },
+  "Home": {
+    "title": "Tervetuloa Sprunkediin",
+    "description": "Löydä Sprunkedin viehättävä maailma, koukuttava peli, joka sekoittaa musiikillisen luovuuden parhaat osat. Meidän innovatiivisella raaputusta - perustuvalla pelimekaniikalla voit luoda poikkeuksellista musiikkia ennalta-arvaamattomasti. Raaputa vain pintaa paljastamaan piilotetut äänet ja tehosteet, ja katselkaa, kun musiikillinen visio muotoutuu.",
+    "playNow": "Pelaa Sprunked nyt",
+    "learnMore": "Lue lisää Sprunkedistä",
+    "iframeTitle": "sprunked - peli - iframe",
+    "fullscreenButton": "Koko ruutu",
+    "shareButton": "Jaa Sprunked",
+    "urlCopied": "Sprunked - URL on kopioitu leikepöydälle!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Mikä on Sprunked?",
+    "whatIsDescription": "Sprunked on viehättävä musiikillinen luomispohja, jolla voit soittaa erikoisia rytmejä käyttämällä outoja hahmoja. Se on uppoutuva ja viihdyttävä kokemus, joka vapauttaa luovuutesi intuitiivisella, raaputusta - perustuvalla pelimekaniikalla.",
+    "howToPlayTitle": "Kuinka pelataan Sprunked?",
+    "howToPlayStep1": "Valitse hahmoja, joilla on ainutlaatuiset äänet (tavut, laulut, tehosteet)",
+    "howToPlayStep2": "Käytä raaputusta - rajapintaa paljastamaan piilotetut äänet ja tehosteet",
+    "howToPlayStep3": "Sekoita ja yhdistä elementit luodaksesi oman musiikkitaidotuksen",
+    "keyFeaturesTitle": "Sprunkedin pelin huipputavoitteet",
+    "feature1Title": "Raakailtava Rajapinta",
+    "feature1Description": "Aloita musiikin luominen meidän intuitiivisella, käyttäjäkeskeisellä suunnittelulla, jota helpottaa sävellys.",
+    "feature2Title": "Monipuolinen Äänenkirjasto",
+    "feature2Description": "Avaa taiteellinen potentiaali meidän monipuolisella joukolla huvittavia ja viehättäviä ääni - elementtejä.",
+    "feature3Title": "Rajaton Musiikillinen Seikkailu",
+    "feature3Description": "Aloita ääni - löytömatka, luodaksesi ainutlaatuisia sävellyksiä vain rajoitettuina mielikuvituksesi mukaan.",
+    "feature4Title": "Kehitä Luomusiasi",
+    "feature4Description": "Pidä ja levitä musiikillisia taidotuksiasi, jaa ne läheisille tai lanseeraa ne digitaaliseen maailmaan.",
+    "controlsTitle": "Sprunkedin ohjaimet ja vinkit",
+    "movementControlsTitle": "Perusohjaimet",
+    "movementControl1": "Käytä raaputusta - eleitä paljastamaan äänet",
+    "movementControl2": "Vedä ja pudota elementit luodaksesi musiikkia",
+    "interactionControlsTitle": "Äänenluominen",
+    "interactionControl1": "Kerro eri äänet kerroksittain rakentamaan monimutkaisuutta",
+    "interactionControl2": "Kokeile erilaisia yhdistelmiä",
+    "interactionControl3": "Käytä raaputusta - rajapintaa löytämään piilotetut tehosteet",
+    "combatControlsTitle": "Musiikin Mekaniikat",
+    "combatControl1": "Luo rytmisiä kuvioita",
+    "combatControl2": "Sekoita erilaisia ääni - elementtejä",
+    "combatControl3": "Löydä erityisiä ääni - yhdistelmiä",
+    "combatControl4": "Rakentaa kerroksittaisia sävellyksiä",
+    "miscControlsTitle": "Lisätavoitteet",
+    "miscControl1": "Opettele raaputusta - mekaniikka",
+    "miscControl2": "Etsi ääni - yhdistelmiä",
+    "miscControl3": "Luo monimutkaisia musiikkijärjestelyitä"
+  }
+}

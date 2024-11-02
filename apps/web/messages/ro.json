@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Crea, amesteca, experimente magia!",
+  "description": "Plunge în lumea fermecătoare a Sprunked, unde creația muzicală întâlnește inovația prin sistemul nostru unic de joc bazat pe scratch.",
+  "Loading": {
+    "title": "Se încarcă Sprunked..."
+  },
+  "Home": {
+    "title": "Bine ați venit la Sprunked",
+    "description": "Descoperiți lumea fermecătoare a Sprunked, un joc captivant care combină cele mai bune elemente ale creației muzicale. Cu jocul nostru inovativ bazat pe scratch, veți avea puterea de a crea muzică extraordinară ca niciodată înainte. Doar ștergeți suprafața pentru a descoperi sunete și efecte ascunse și urmăriți cum se formează viziunea dvs. muzicală.",
+    "playNow": "Jucați Sprunked acum",
+    "learnMore": "Aflați mai multe despre Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Ecran complet",
+    "shareButton": "Partajați Sprunked",
+    "urlCopied": "URL-ul Sprunked a fost copiat în clipboard!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Ce este Sprunked?",
+    "whatIsDescription": "Sprunked este o platformă de creație muzicală captivantă care vă permite să orchestrați ritmuri distincte folosind personaje excentrice. Este o experiență captivantă și distractivă care eliberează potențialul vostru creativ prin jocul intuitiv bazat pe scratch.",
+    "howToPlayTitle": "Cum se joacă Sprunked?",
+    "howToPlayStep1": "Selectați personaje, fiecare cu sunete unice (bătăi, voci, efecte)",
+    "howToPlayStep2": "Folosiți interfața de scratch pentru a descoperi sunete și efecte ascunse",
+    "howToPlayStep3": "Amestecați și combinați elemente pentru a crea propria dvs. magistrală muzicală",
+    "keyFeaturesTitle": "Puncte forte ale jocului Sprunked",
+    "feature1Title": "Interfață de scratch fără probleme",
+    "feature1Description": "Plungeți-vă în creația muzicală cu designul nostru intuitiv și centrat pe utilizator, care face compunerea ușoară.",
+    "feature2Title": "Bibliotecă de sunete eclectică",
+    "feature2Description": "Deblocați potențialul artistic cu multitudinea noastră diversă de elemente audio capricioase și captivante.",
+    "feature3Title": "Explorare muzicală nesfârșită",
+    "feature3Description": "Embarkați pe o călătorie de descoperire sonică, creați compoziții unice limitate doar de imaginația dvs.",
+    "feature4Title": "Amplificați creațiile dvs.",
+    "feature4Description": "Conservați și difuzați magistralele dvs. muzicale, împărtășindu-le cu cercurile apropiate sau lansându-le în sfera digitală.",
+    "controlsTitle": "Controalele și sfaturile Sprunked",
+    "movementControlsTitle": "Controale de bază",
+    "movementControl1": "Folosiți gesturile de scratch pentru a dezvălui sunete",
+    "movementControl2": "Trageți și lăsați elemente pentru a crea muzică",
+    "interactionControlsTitle": "Creație de sunet",
+    "interactionControl1": "Stratați diferite sunete pentru a construi complexitate",
+    "interactionControl2": "Experimentați cu diferite combinații",
+    "interactionControl3": "Folosiți interfața de scratch pentru a descoperi efecte ascunse",
+    "combatControlsTitle": "Mecanici muzicale",
+    "combatControl1": "Creați modele ritmice",
+    "combatControl2": "Amestecați diferite elemente sonore",
+    "combatControl3": "Descoperiți combinații speciale de sunet",
+    "combatControl4": "Construiți compoziții stratificate",
+    "miscControlsTitle": "Tecnici avansate",
+    "miscControl1": "Dominați mecanicile de scratch",
+    "miscControl2": "Explorați combinațiile de sunet",
+    "miscControl3": "Creați aranjamente muzicale complexe"
+  }
+}

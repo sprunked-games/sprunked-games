@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Oluştur, Karıştır, Sihirli Deneyimi Yaşayın!",
+  "description": "Sprunked'in büyüleyici dünyasına dalın, burada müzik yaratımı, benzersiz çatallaştırma tabanlı oyun oynama sistemimiz aracılığıyla yenilikçi bir hale geliyor.",
+  "Loading": {
+    "title": "Sprunked Yükleniyor..."
+  },
+  "Home": {
+    "title": "Sprunked'e Hoş Geldiniz",
+    "description": "Sprunked'in büyüleyici dünyasını keşfedin, müzik yaratıcılığının en iyi unsurlarını birleştirmiş olan çekici bir oyun. İnovasyonlu çatallaştırma tabanlı oyun oynama sayesinde, daha önce hiç olmadığı gibi olağanüstü müzikler yaratma gücüne sahip olacaksınız. Sadece yüzeyini çatlatın gizli sesleri ve efektleri ortaya çıkarın ve müziksel vizyonunuz şekillenecek.",
+    "playNow": "Şimdi Sprunked'i Oyna",
+    "learnMore": "Sprunked Hakkında Daha Fazla Öğrenin",
+    "iframeTitle": "sprunked-oyun-iframe",
+    "fullscreenButton": "Tam Ekran",
+    "shareButton": "Sprunked'i Paylaş",
+    "urlCopied": "Sprunked URL'si panoya kopyalandı!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Sprunked Nedir?",
+    "whatIsDescription": "Sprunked, tuhaf karakterleri kullanarak benzersiz ritimleri düzenlemenizi sağlayan büyüleyici bir müzik yaratım platformu. İntuitif, çatallaştırma tabanlı oyun oynama yoluyla yaratıcı potansiyelinizi serbest bırakan, içerici ve eğlenceli bir deneyimdir.",
+    "howToPlayTitle": "Sprunked Nasıl Oynanır?",
+    "howToPlayStep1": "Tekil sesleri (darbeler, vokaller, efektler) olan karakterleri seçin",
+    "howToPlayStep2": "Catallaştırma arayüzünü kullanarak gizli sesleri ve efektleri ortaya çıkarın",
+    "howToPlayStep3": "Elemanları karıştırıp kendi müziksel eserlerinizi yaratın",
+    "keyFeaturesTitle": "Sprunked'in Oyun Öne Çıkarıları",
+    "feature1Title": "Akıcı Catallaştırma Arayüzü",
+    "feature1Description": "İntuitif, kullanıcı merkezli tasarımımızla müzik yaratmaya dalın, kompozisyon yapmayı kolaylaştırır.",
+    "feature2Title": "Çeşitli Ses Kütüphanesi",
+    "feature2Description": "Çeşitli tuhaf ve büyüleyici ses elemanlarıyla sanatsal potansiyelinizi açığa çıkarın.",
+    "feature3Title": "Sınırsız Müzik Keşfi",
+    "feature3Description": "Sadece hayalinizle sınırlı olan benzersiz kompozisyonlar yaratmak için bir ses keşfi yolculuğuna çıkmak.",
+    "feature4Title": "Oluşturularınızı Geliştirin",
+    "feature4Description": "Müziksel eserlerinizi koruyun ve yayınlayın, yakın çevrenizle paylaşın veya onları dijital alanlara taşıyın.",
+    "controlsTitle": "Sprunked Kontrolleri ve İpuçları",
+    "movementControlsTitle": "Temel Kontroller",
+    "movementControl1": "Sesleri ortaya çıkarmak için çatallaştırma hareketlerini kullanın",
+    "movementControl2": "Elemanları sürükleyip bırakarak müzik yaratın",
+    "interactionControlsTitle": "Ses Oluşturma",
+    "interactionControl1": "Farklı sesleri katmanlayarak karmaşıklık oluşturun",
+    "interactionControl2": "Çeşitli kombinasyonları deneyin",
+    "interactionControl3": "Catallaştırma arayüzünü kullanarak gizli efektleri keşfedin",
+    "combatControlsTitle": "Müzik Mekanikleri",
+    "combatControl1": "Ritimli desenler oluşturun",
+    "combatControl2": "Farklı ses elemanlarını karıştırın",
+    "combatControl3": "Özel ses kombinasyonlarını keşfedin",
+    "combatControl4": "Katmanlı kompozisyonlar oluşturun",
+    "miscControlsTitle": "Gelişmiş Teknikler",
+    "miscControl1": "Catallaştırma mekaniklerini öğrenin",
+    "miscControl2": "Ses kombinasyonlarını keşfedin",
+    "miscControl3": "Karmaşık müzik düzenlemeleri yaratın"
+  }
+}

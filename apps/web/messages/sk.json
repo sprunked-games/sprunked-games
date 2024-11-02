@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Vytvor, Miesaj, Vyskúšaj Kúzlo!",
+  "description": "Zaplň sa do očarujúceho sveta Sprunked, kde tvorba hudby stretáva s inováciou prostredníctvom nášho jedinečného systému hrania založeného na scratche.",
+  "Loading": {
+    "title": "Načítavam Sprunked..."
+  },
+  "Home": {
+    "title": "Vitajte v Sprunked",
+    "description": "Objavte očarujúci svet Sprunked, fascinujúcu hru, ktorá kombinuje najlepšie prvky hudobnej kreativity. S našou inovatívnou hrou založenou na scratche budete môcť vytvárať extraordinárnu hudbu ako nikdy predtým. Jednoducho scratnete povrch, aby ste odhalili skryté zvuky a efekty a pozrite sa, ako sa vaše hudobné videnie formuje.",
+    "playNow": "Hraj Sprunked Teraz",
+    "learnMore": "Zjistiť Viac o Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Celá obrazovka",
+    "shareButton": "Zdieľať Sprunked",
+    "urlCopied": "URL Sprunked skopírovaná do schránky!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Čo je Sprunked?",
+    "whatIsDescription": "Sprunked je očarujúca hudobná tvorcovská platforma, ktorá vám umožňuje dirigovať jedinečné rytmy pomocou výstredných postav. Je to pútavé a zábavné zážitie, ktoré uvoľňuje vaše kreatívne potenciál prostredníctvom intuitívneho, založeného na scratche hrania.",
+    "howToPlayTitle": "Ako Hrať Sprunked?",
+    "howToPlayStep1": "Vyberte postavy, každá s jedinečnými zvukmi (rytmy, vokály, efekty)",
+    "howToPlayStep2": "Použite rozhranie scratche na odhalenie skrytych zvukov a efektov",
+    "howToPlayStep3": "Miesaj a kombinuj prvky, aby ste vytvorili svoje vlastné hudobné dielo",
+    "keyFeaturesTitle": "Hlavné Výhody Sprunked",
+    "feature1Title": "Bezproblémové Rozhranie Scratch",
+    "feature1Description": "Zaplňte sa do tvorby hudby s našou intuitívnou, zameranou na používateľa dizajnom, ktorý uľahčuje skladbu.",
+    "feature2Title": "Rozmanitá Zvuková Knižnica",
+    "feature2Description": "Odkryjte vaše umelecké potenciál pomocou nášho rôznorodého radu výstredných a očarujúcich zvukových prvkov.",
+    "feature3Title": "Neobmedzená Hudobná Eksplorácia",
+    "feature3Description": "Vystupnite na cestu zvukovej odkrytia, vytvárajte jedinečné skladby obmedzené iba vašou predstavivosťou.",
+    "feature4Title": "Zväčšenie Vašich Tvorieb",
+    "feature4Description": "Udržujte a vysielajte vaše hudobné diela, zdieľajte ich s blízkymi alebo uvediete ich do digitálneho priestoru.",
+    "controlsTitle": "Ovládanie Sprunked a Tipy",
+    "movementControlsTitle": "Základné Ovládanie",
+    "movementControl1": "Použite pohyby scratche na odhalenie zvukov",
+    "movementControl2": "Preneste a položte prvky, aby ste vytvorili hudbu",
+    "interactionControlsTitle": "Vytváranie Zvuku",
+    "interactionControl1": "Ukladajte rôzne zvuky, aby ste vytvorili komplexitu",
+    "interactionControl2": "Skúšajte rôzne kombinácie",
+    "interactionControl3": "Použite rozhranie scratche na objavovanie skrytych efektov",
+    "combatControlsTitle": "Hudobné Mechaniky",
+    "combatControl1": "Vytvárajte rytmické vzory",
+    "combatControl2": "Miesajte rôzne zvukové prvky",
+    "combatControl3": "Objavujte špeciálne kombinácie zvukov",
+    "combatControl4": "Vytvárajte viacvrstvové skladby",
+    "miscControlsTitle": "Pokročilejší Techniky",
+    "miscControl1": "Ovládajte mechaniky scratche",
+    "miscControl2": "Eksplorujte kombinácie zvukov",
+    "miscControl3": "Vytvárajte komplexné hudobné usporiadania"
+  }
+}

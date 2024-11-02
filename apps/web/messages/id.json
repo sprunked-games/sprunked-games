@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Buat, Campur, Rasakan Keajaiban!",
+  "description": "Masuk ke dalam dunia yang mempesona dari Sprunked, di mana pembuatan musik bertemu dengan inovasi melalui sistem gameplay berbasis scratch yang unik kami.",
+  "Loading": {
+    "title": "Memuat Sprunked..."
+  },
+  "Home": {
+    "title": "Selamat datang di Sprunked",
+    "description": "Temukan dunia yang mempesona dari Sprunked, sebuah game yang menarik yang menggabungkan elemen terbaik dari kreativitas musik. Dengan gameplay berbasis scratch yang inovatif kami, Anda akan memiliki kekuatan untuk membuat musik luar biasa seperti sebelumnya. Cukup geser permukaan untuk mengungkap suara dan efek tersembunyi, dan lihat bagaimana visi musik Anda terbentuk.",
+    "playNow": "Bermain Sprunked Sekarang",
+    "learnMore": "Pelajari Lebih Lanjut Tentang Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Layar Penuh",
+    "shareButton": "Bagikan Sprunked",
+    "urlCopied": "URL Sprunked telah disalin ke clipboard!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Apa itu Sprunked?",
+    "whatIsDescription": "Sprunked adalah sebuah platform pembuatan musik yang menarik yang memungkinkan Anda mengatur ritme yang berbeda menggunakan karakter aneh. Ini adalah pengalaman yang mendalam dan menghibur yang melepaskan potensi kreatif Anda melalui gameplay berbasis scratch yang intuitif.",
+    "howToPlayTitle": "Cara Bermain Sprunked?",
+    "howToPlayStep1": "Pilih karakter, masing - masing dengan suara unik (irama, vokal, efek)",
+    "howToPlayStep2": "Gunakan antarmuka scratch untuk mengungkap suara dan efek tersembunyi",
+    "howToPlayStep3": "Campur dan padukan elemen untuk membuat karya musik Anda sendiri",
+    "keyFeaturesTitle": "Fitur Utama dari Sprunked",
+    "feature1Title": "Antarmuka Scratch yang Lancar",
+    "feature1Description": "Masuk ke dalam pembuatan musik dengan desain yang intuitif dan berpusat pada pengguna kami yang membuat menyusun menjadi mudah.",
+    "feature2Title": "Perpustakaan Suara yang Beragam",
+    "feature2Description": "Buka potensi seni Anda dengan berbagai elemen audio yang aneh dan menarik kami.",
+    "feature3Title": "Eksplorasi Musik yang Tak Terbatas",
+    "feature3Description": "Mulai perjalanan penemuan suara, membuat komposisi unik yang hanya dibatasi oleh imajinasi Anda.",
+    "feature4Title": "Perkuat Karya Anda",
+    "feature4Description": "Simpan dan sebar karya musik Anda, bagikan dengan lingkungan dekat atau lepas ke dunia digital.",
+    "controlsTitle": "Kontrol dan Tips Sprunked",
+    "movementControlsTitle": "Kontrol Dasar",
+    "movementControl1": "Gunakan gerakan scratch untuk mengungkap suara",
+    "movementControl2": "Seret dan lepaskan elemen untuk membuat musik",
+    "interactionControlsTitle": "Pembuatan Suara",
+    "interactionControl1": "Lapiskan suara yang berbeda untuk membangun kompleksitas",
+    "interactionControl2": "Eksperimen dengan berbagai kombinasi",
+    "interactionControl3": "Gunakan antarmuka scratch untuk menemukan efek tersembunyi",
+    "combatControlsTitle": "Mekanik Musik",
+    "combatControl1": "Buat pola ritmik",
+    "combatControl2": "Campur elemen suara yang berbeda",
+    "combatControl3": "Temukan kombinasi suara khusus",
+    "combatControl4": "Bangun komposisi berlapis",
+    "miscControlsTitle": "Teknik Lanjut",
+    "miscControl1": "Kuasai mekanik scratch",
+    "miscControl2": "Eksplorasi kombinasi suara",
+    "miscControl3": "Buat pengaturan musik yang kompleks"
+  }
+}

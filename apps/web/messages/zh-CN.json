@@ -1,1 +1,53 @@
-{}
+{
+  "title": "《Sprunked》（Sprunked）",
+  "slogan": "创作、混合，体验魔法！",
+  "description": "踏入《Sprunked》的迷人世界，在这里，通过我们独特的基于刮擦（scratch）的游戏玩法系统，音乐创作与创新相遇。",
+  "Loading": {
+    "title": "正在加载《Sprunked》..."
+  },
+  "Home": {
+    "title": "欢迎来到《Sprunked》",
+    "description": "探索《Sprunked》的迷人世界，这是一款融合了音乐创作最佳元素的迷人游戏。通过我们创新的基于刮擦（scratch）的游戏玩法，您将拥有前所未有的创作非凡音乐的能力。只需轻轻刮擦表面就能发现隐藏的声音和效果，看着您的音乐构想逐渐成形。",
+    "playNow": "立即游玩《Sprunked》",
+    "learnMore": "了解更多关于《Sprunked》的信息",
+    "iframeTitle": "sprunked - 游戏 - iframe",
+    "fullscreenButton": "全屏",
+    "shareButton": "分享《Sprunked》",
+    "urlCopied": "《Sprunked》的网址已复制到剪贴板！"
+  },
+  "desc": {
+    "gameTitle": "《Sprunked》（Sprunked）",
+    "whatIsTitle": "什么是《Sprunked》？",
+    "whatIsDescription": "《Sprunked》是一个迷人的音乐创作平台，它允许您使用奇特的角色编排独特的节奏。这是一种沉浸式且有趣的体验，通过直观的基于刮擦（scratch）的游戏玩法释放您的创作潜力。",
+    "howToPlayTitle": "如何玩《Sprunked》？",
+    "howToPlayStep1": "选择角色，每个角色都有独特的声音（节拍、人声、效果）",
+    "howToPlayStep2": "使用刮擦（scratch）界面来发现隐藏的声音和效果",
+    "howToPlayStep3": "混合和匹配元素来创作您自己的音乐杰作",
+    "keyFeaturesTitle": "《Sprunked》的游戏亮点",
+    "feature1Title": "无缝刮擦（scratch）界面",
+    "feature1Description": "通过我们直观的、以用户为中心的设计投入音乐创作，让作曲变得轻而易举。",
+    "feature2Title": "兼收并蓄的声音库",
+    "feature2Description": "通过我们多样的奇思妙想且迷人的音频元素释放您的艺术潜力。",
+    "feature3Title": "无限的音乐探索",
+    "feature3Description": "踏上声音发现之旅，创作仅受您想象力限制的独特作品。",
+    "feature4Title": "放大您的创作",
+    "feature4Description": "保存并传播您的音乐杰作，与亲密圈子分享或发布到数字领域。",
+    "controlsTitle": "《Sprunked》的控制与提示",
+    "movementControlsTitle": "基本控制",
+    "movementControl1": "使用刮擦（scratch）手势来揭示声音",
+    "movementControl2": "拖放元素来创作音乐",
+    "interactionControlsTitle": "声音创作",
+    "interactionControl1": "叠加不同的声音以构建复杂性",
+    "interactionControl2": "尝试各种组合",
+    "interactionControl3": "使用刮擦（scratch）界面来发现隐藏效果",
+    "combatControlsTitle": "音乐机制",
+    "combatControl1": "创作节奏模式",
+    "combatControl2": "混合不同的声音元素",
+    "combatControl3": "发现特殊的声音组合",
+    "combatControl4": "构建分层的作品",
+    "miscControlsTitle": "高级技巧",
+    "miscControl1": "掌握刮擦（scratch）机制",
+    "miscControl2": "探索声音组合",
+    "miscControl3": "创作复杂的音乐编排"
+  }
+}

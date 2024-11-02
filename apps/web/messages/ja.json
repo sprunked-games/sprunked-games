@@ -1,1 +1,53 @@
-{}
+{
+  "title": "スプランクド (Sprunked)",
+  "slogan": "創造、ミックス、魔法を体験せよ！",
+  "description": "スプランクドの魅惑的な世界に飛び込もう。ここでは、独自のスクラッチベースのゲームプレイシステムを通じて、音楽創作が革新と出会う。",
+  "Loading": {
+    "title": "スプランクドを読み込んでいます..."
+  },
+  "Home": {
+    "title": "スプランクドへようこそ",
+    "description": "スプランクドの魅惑的な世界を発見しよう。これは、音楽的な創造性の最高の要素を融合した魅力的なゲームです。私たちの革新的なスクラッチベースのゲームプレイで、これまでにない素晴らしい音楽を作る力を手に入れることができます。単に表面をスクラッチするだけで隠れた音と効果を発見し、あなたの音楽的なビジョンが形をとるのを見ることができます。",
+    "playNow": "今すぐスプランクドをプレイ",
+    "learnMore": "スプランクドの詳細を学ぶ",
+    "iframeTitle": "スプランクドゲームiframe",
+    "fullscreenButton": "全画面",
+    "shareButton": "スプランクドを共有",
+    "urlCopied": "スプランクドのURLをクリップボードにコピーしました！"
+  },
+  "desc": {
+    "gameTitle": "スプランクド (Sprunked)",
+    "whatIsTitle": "スプランクドとは何ですか？",
+    "whatIsDescription": "スプランクドは、風変わりなキャラクターを使って独特のリズムを編曲できる魅力的な音楽創作プラットフォームです。直感的なスクラッチベースのゲームプレイを通じて、あなたの創造的な可能性を解き放つ没入型で楽しい体験です。",
+    "howToPlayTitle": "スプランクドの遊び方",
+    "howToPlayStep1": "それぞれが独特の音（ビート、ボーカル、エフェクト）を持つキャラクターを選択",
+    "howToPlayStep2": "スクラッチインターフェイスを使って隠れた音と効果を発見",
+    "howToPlayStep3": "要素をミックスして合わせて、自分だけの音楽の傑作を作る",
+    "keyFeaturesTitle": "スプランクドのゲームのハイライト",
+    "feature1Title": "シームレスなスクラッチインターフェイス",
+    "feature1Description": "直感的でユーザー中心の設計で音楽創作に飛び込み、作曲を簡単にします。",
+    "feature2Title": "多様なサウンドライブラリ",
+    "feature2Description": "私たちの多種多様な奇妙で魅力的なオーディオ要素であなたの芸術的な可能性を解き放つ。",
+    "feature3Title": "無限の音楽の探検",
+    "feature3Description": "音の発見の旅に出て、あなたの想像力だけが限界となる独特の作曲を作りましょう。",
+    "feature4Title": "あなたの作品をアンプアップ",
+    "feature4Description": "あなたの音楽の傑作を保存して放送し、親しいサークルと共有するか、デジタルの世界に送り出しましょう。",
+    "controlsTitle": "スプランクドのコントロールとヒント",
+    "movementControlsTitle": "基本的なコントロール",
+    "movementControl1": "スクラッチジェスチャーを使って音を明らかにする",
+    "movementControl2": "要素をドラッグアンドドロップして音楽を作る",
+    "interactionControlsTitle": "音の作成",
+    "interactionControl1": "異なる音を重ねて複雑さを作る",
+    "interactionControl2": "さまざまな組み合わせを試す",
+    "interactionControl3": "スクラッチインターフェイスを使って隠れた効果を発見",
+    "combatControlsTitle": "音楽のメカニズム",
+    "combatControl1": "リズミカルなパターンを作る",
+    "combatControl2": "異なる音の要素をミックスする",
+    "combatControl3": "特別な音の組み合わせを発見する",
+    "combatControl4": "重ねた作曲を作る",
+    "miscControlsTitle": "高度な技術",
+    "miscControl1": "スクラッチのメカニズムをマスターする",
+    "miscControl2": "音の組み合わせを探る",
+    "miscControl3": "複雑な音楽のアレンジを作る"
+  }
+}

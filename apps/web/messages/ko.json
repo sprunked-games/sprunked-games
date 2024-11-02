@@ -1,1 +1,53 @@
-{}
+{
+  "title": "스프렁크드 (Sprunked)",
+  "slogan": "창조, 믹스, 마법을 경험하세요!",
+  "description": "스프렁크드의 매혹적인 세계로 뛰어들어보세요. 여기서는 우리의 독특한 스크래치 기반의 게임 플레이 시스템을 통해 음악 창작과 혁신이 만나습니다.",
+  "Loading": {
+    "title": "스프렁크드 로딩 중..."
+  },
+  "Home": {
+    "title": "스프렁크드에 오신 것을 환영합니다.",
+    "description": "스프렁크드의 매혹적인 세계를 발견하세요. 이 매력적인 게임은 최고의 음악적 창의성을 결합합니다. 우리의 혁신적인 스크래치 기반의 게임 플레이로, 이제껏 없었던 훌륭한 음악을 창작할 수 있습니다. 단순히 표면을 스크래치하여 숨겨진 소리와 효과를 발견하고, 당신의 음악적 비전이 형태를 취하는 것을 보세요.",
+    "playNow": "지금 스프렁크드 플레이",
+    "learnMore": "스프렁크드에 대해 더 알아보기",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "전체화면",
+    "shareButton": "스프렁크드 공유",
+    "urlCopied": "스프렁크드 URL이 클립보드에 복사되었습니다!"
+  },
+  "desc": {
+    "gameTitle": "스프렁크드 (Sprunked)",
+    "whatIsTitle": "스프렁크드란 무엇인가?",
+    "whatIsDescription": "스프렁크드는 매혹적인 음악 창작 플랫폼으로, 이색적인 캐릭터들을 사용하여 독특한 리듬을 만들 수 있습니다. 이것은 직관적이고 스크래치 기반의 게임 플레이를 통해 창의적 잠재력을 발휘할 수 있는 몰입형이며 재미있는 경험입니다.",
+    "howToPlayTitle": "스프렁크드는 어떻게 플레이하나요?",
+    "howToPlayStep1": "각각 고유한 소리(비트, 보컬, 효과)를 가진 캐릭터를 선택합니다.",
+    "howToPlayStep2": "스크래치 인터페이스를 사용하여 숨겨진 소리와 효과를 발견합니다.",
+    "howToPlayStep3": "요소들을 믹스하고 매치하여 자신만의 음악 명작을 만들어 보세요.",
+    "keyFeaturesTitle": "스프렁크드의 게임 하이라이트",
+    "feature1Title": "원활한 스크래치 인터페이스",
+    "feature1Description": "우리의 직관적이고 사용자 중심의 디자인으로 음악 창작에 뛰어들어보세요. 이것은 작곡을 쉽게 만들어 줍니다.",
+    "feature2Title": "다양한 소리 라이브러리",
+    "feature2Description": "우리의 다양한 기발하고 매혹적인 오디오 요소로 당신의 예술적 잠재력을 발휘하세요.",
+    "feature3Title": "무한한 음악 탐험",
+    "feature3Description": "소리 발견의 여정을 떠나보세요. 당신의 상상을 제한하는 것이 아닌 독특한 작곡을 만들어 보세요.",
+    "feature4Title": "당신의 창작물을 증폭시키기",
+    "feature4Description": "당신의 음악 명작을 보존하고 방송하며, 친한 사람들과 공유하거나 디지털 세계로 발사합니다.",
+    "controlsTitle": "스프렁크드의 제어와 팁",
+    "movementControlsTitle": "기본 제어",
+    "movementControl1": "스크래치 제스처를 사용하여 소리를 보여줍니다.",
+    "movementControl2": "요소들을 드래그하고 드롭하여 음악을 만들어 보세요.",
+    "interactionControlsTitle": "소리 생성",
+    "interactionControl1": "다른 소리를 겹쳐 복잡성을 만들어 보세요.",
+    "interactionControl2": "다양한 조합을 실험해 보세요.",
+    "interactionControl3": "스크래치 인터페이스를 사용하여 숨겨진 효과를 발견합니다.",
+    "combatControlsTitle": "음악 메커니즘",
+    "combatControl1": "리듬 패턴을 만들어 보세요.",
+    "combatControl2": "다른 소리 요소들을 믹스합니다.",
+    "combatControl3": "특별한 소리 조합을 발견합니다.",
+    "combatControl4": "계층화된 작곡을 만들어 보세요.",
+    "miscControlsTitle": "고급 기술",
+    "miscControl1": "스크래치 메커니즘을 마스터하세요.",
+    "miscControl2": "소리 조합을 탐험해 보세요.",
+    "miscControl3": "복잡한 음악 배열을 만들어 보세요."
+  }
+}

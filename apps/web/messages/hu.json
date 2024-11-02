@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Létrehozás, Összekeverés, Tapasztalja a Varázslatot!",
+  "description": "Belemerüljön a Sprunked varázslatos világába, ahol a zeneszínezés találkozik az innovációval a sajátos kraccsolás alapú játékrendszerünkön keresztül.",
+  "Loading": {
+    "title": "Sprunked betöltése..."
+  },
+  "Home": {
+    "title": "Üdvözöljük a Sprunked-ben",
+    "description": "Fedezze fel a Sprunked varázslatos világát, egy elragadó játékot, amely a zeneszínezés legjobb elemeit egyesíti. Az innovatív kraccsolás alapú játékunkkal olyan rendkívüli zenét tud majd létrehozni, mint még soha nem. Egyszerűen kraccsolja a felületet, hogy felfedje a rejtett hangokat és effektusokat, és nézze, ahogy zenéjének a képlete alakul.",
+    "playNow": "Játssza most a Sprunked-et",
+    "learnMore": "Tudjon meg többet a Sprunkedről",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Teljes képernyő",
+    "shareButton": "Megosztás a Sprunked-el",
+    "urlCopied": "A Sprunked URL-je másolva a vágólapra!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Mi a Sprunked?",
+    "whatIsDescription": "A Sprunked egy elragadó zeneszínezési platform, amely lehetővé teszi különleges ritmusokat irányítani különleges karakterek segítségével. Egy beágyazó és szórakoztató élmény, amely a kreatív potenciálját szabadítja fel az intuitív, kraccsolás alapú játékmenet révén.",
+    "howToPlayTitle": "Hogyan lehet játszani a Sprunked-et?",
+    "howToPlayStep1": "Válasszon karaktereket, minden egyedi hangokkal (ritmusokkal, vokálokkal, effektusokkal)",
+    "howToPlayStep2": "Használja a kraccsolási felületet a rejtett hangok és effektusok felfedésére",
+    "howToPlayStep3": "Összekeverje és párosítsa össze az elemeket, hogy saját zeneművészeti alkotását hozza létre",
+    "keyFeaturesTitle": "A Sprunked játékkiemelők",
+    "feature1Title": "Vesztes kraccsolási felület",
+    "feature1Description": "Belemerüljön a zeneszínezésbe az intuitív, felhasználóbarát kialakításunkkal, amely könnyűvé teszi a komponálást.",
+    "feature2Title": "Különböző Hangtár",
+    "feature2Description": "Szabadítsa fel művészi potenciálját a változatos, őrült és elragadó hangelemek segítségével.",
+    "feature3Title": "Határtalan zenetúra",
+    "feature3Description": "Induljon el egy hangfelfedező útjára, és készítse el egyedülálló kompozíciókat csak az ő képzeletének szabhatnak határt.",
+    "feature4Title": "Növelje alkotásait",
+    "feature4Description": "Mentse és közölje zeneművészeti alkotásait, ossza meg a közeli körökben vagy dobja őket a digitális térbe.",
+    "controlsTitle": "A Sprunked vezérlései és tippek",
+    "movementControlsTitle": "Alapvető vezérlések",
+    "movementControl1": "Használja a kraccsolási mozdulatokat a hangok felfedésére",
+    "movementControl2": "Húzza és helyezze el az elemeket a zeneszínezéshez",
+    "interactionControlsTitle": "Hanglétrehozás",
+    "interactionControl1": "Rétegzett különböző hangokat, hogy összetettséget hozzon létre",
+    "interactionControl2": "Kísérletezzen különböző kombinációkkal",
+    "interactionControl3": "Használja a kraccsolási felületet a rejtett effektusok felfedésére",
+    "combatControlsTitle": "Zeneművészeti Műveletek",
+    "combatControl1": "Hozzon létre ritmikus mintákat",
+    "combatControl2": "Összekeverje a különböző hangelemeket",
+    "combatControl3": "Fedezze fel a különleges hangkombinációkat",
+    "combatControl4": "Hozzon létre rétegzett kompozíciókat",
+    "miscControlsTitle": "Haladó Technikák",
+    "miscControl1": "Ismerje meg a kraccsolási mechanikákat",
+    "miscControl2": "Kutatja a hangkombinációkat",
+    "miscControl3": "Hozzon létre összetett zenekarokat"
+  }
+}

@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Crie, misture, experimente a magia!",
+  "description": "Plunge-se no mundo encantador de Sprunked, onde a criação musical se encontra com a inovação por meio do nosso único sistema de jogabilidade baseado em riscos.",
+  "Loading": {
+    "title": "Carregando Sprunked..."
+  },
+  "Home": {
+    "title": "Bem-vindo ao Sprunked",
+    "description": "Descubra o mundo encantador de Sprunked, um jogo cativante que combina os melhores elementos da criatividade musical. Com a nossa inovadora jogabilidade baseada em riscos, você terá o poder de criar música extraordinária como nunca antes. Basta riscar a superfície para descobrir sons e efeitos ocultos e assistir enquanto a sua visão musical se forma.",
+    "playNow": "Jogue Sprunked Agora",
+    "learnMore": "Saiba Mais Sobre Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Tela Cheia",
+    "shareButton": "Compartilhe Sprunked",
+    "urlCopied": "A URL do Sprunked foi copiada para a área de transferência!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "O que é Sprunked?",
+    "whatIsDescription": "Sprunked é uma plataforma de criação musical cativante que permite que você orquestre ritmos distintivos usando personagens excêntricos. É uma experiência imersiva e divertida que libera o seu potencial criativo por meio de uma jogabilidade intuitiva baseada em riscos.",
+    "howToPlayTitle": "Como Jogar Sprunked?",
+    "howToPlayStep1": "Selecione personagens, cada um com sons únicos (batidas, vocais, efeitos)",
+    "howToPlayStep2": "Use a interface de riscos para descobrir sons e efeitos ocultos",
+    "howToPlayStep3": "Misture e combine elementos para criar a sua própria obra-prima musical",
+    "keyFeaturesTitle": "Destaques do Jogo Sprunked",
+    "feature1Title": "Interface de Riscos Sem Fricção",
+    "feature1Description": "Plunge-se na criação musical com o nosso design intuitivo e centrado no usuário que torna a composição fácil.",
+    "feature2Title": "Biblioteca de Sons Ecletica",
+    "feature2Description": "Libere o seu potencial artístico com a nossa diversa variedade de elementos sonoros caprichosos e cativantes.",
+    "feature3Title": "Exploração Musical Sem Limites",
+    "feature3Description": "Embarque em uma jornada de descoberta sonora, criando composições únicas limitadas apenas pela sua imaginação.",
+    "feature4Title": "Amplifique Suas Criações",
+    "feature4Description": "Preserve e transmita as suas obras-primas musicais, compartilhando-as com círculos próximos ou lançando-as na esfera digital.",
+    "controlsTitle": "Controles e Dicas de Sprunked",
+    "movementControlsTitle": "Controles Básicos",
+    "movementControl1": "Use gestos de riscos para revelar sons",
+    "movementControl2": "Arraste e solte elementos para criar música",
+    "interactionControlsTitle": "Criação de Som",
+    "interactionControl1": "Camada diferentes sons para construir complexidade",
+    "interactionControl2": "Experimente com várias combinações",
+    "interactionControl3": "Use a interface de riscos para descobrir efeitos ocultos",
+    "combatControlsTitle": "Mecânicas Musicais",
+    "combatControl1": "Crie padrões rítmicos",
+    "combatControl2": "Misture diferentes elementos sonoros",
+    "combatControl3": "Descubra combinações sonoras especiais",
+    "combatControl4": "Construa composições em camadas",
+    "miscControlsTitle": "Técnicas Avançadas",
+    "miscControl1": "Domine as mecânicas de riscos",
+    "miscControl2": "Explore combinações sonoras",
+    "miscControl3": "Crie arranjos musicais complexos"
+  }
+}

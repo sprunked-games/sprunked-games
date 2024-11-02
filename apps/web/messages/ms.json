@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Cipta, Campur, Alami Keajaiban!",
+  "description": "Terjun ke dalam dunia yang mempesona Sprunked, di mana penciptaan muzik bertemu dengan inovasi melalui sistem permainan berasaskan scrat yang unik kami.",
+  "Loading": {
+    "title": "Memuatkan Sprunked..."
+  },
+  "Home": {
+    "title": "Selamat datang ke Sprunked",
+    "description": "Telusuri dunia yang mempesona Sprunked, sebuah permainan yang menarik yang menggabungkan elemen terbaik kreativitas muzik. Dengan permainan scrat berasaskan inovasi kami, anda akan mempunyai kuasa untuk mencipta muzik luar biasa seperti yang belum pernah terjadi sebelumnya. Cukup scrat permukaan untuk mengungkap bunyi dan kesan tersembunyi, dan lihat bagaimana visi muzik anda terbentuk.",
+    "playNow": "Mainkan Sprunked Sekarang",
+    "learnMore": "Pelajari Lebih Lanjut Tentang Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Paparan Penuh",
+    "shareButton": "Kongsi Sprunked",
+    "urlCopied": "URL Sprunked telah disalin ke papan klip!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Apa itu Sprunked?",
+    "whatIsDescription": "Sprunked ialah platform penciptaan muzik yang menarik yang membolehkan anda mengarahkan ritma yang tersendiri menggunakan watak yang aneh. Ia adalah pengalaman yang mendalam dan menyeronokkan yang melepaskan potensi kreatif anda melalui permainan scrat yang intuitif.",
+    "howToPlayTitle": "Bagaimana Untuk Bermain Sprunked?",
+    "howToPlayStep1": "Pilih watak, setiap satu mempunyai bunyi yang unik (irama, vokal, kesan)",
+    "howToPlayStep2": "Gunakan antara muka scrat untuk mengungkap bunyi dan kesan tersembunyi",
+    "howToPlayStep3": "Campur dan padankan elemen untuk mencipta karya muzik anda sendiri",
+    "keyFeaturesTitle": "Titik - Titik Tinggi Permainan Sprunked",
+    "feature1Title": "Antara Muka Scrat Yang Lancar",
+    "feature1Description": "Terjun ke dalam penciptaan muzik dengan reka bentuk yang intuitif dan berpusat kepada pengguna kami yang menjadikan pengkomposan mudah.",
+    "feature2Title": "Perpustakaan Bunyi Pelbagai",
+    "feature2Description": "Buka potensi seni anda dengan rangkaian elemen audio yang pelbagai, aneh dan menarik.",
+    "feature3Title": "Penyelidikan Muzik Tanpa Batas",
+    "feature3Description": "Bermula pada perjalanan penemuan sonik, menghasilkan komposisi unik yang hanya dibatasi oleh imajinasi anda.",
+    "feature4Title": "Amplifikasi Karya Anda",
+    "feature4Description": "Simpan dan siarkan karya muzik anda, kongsi mereka dengan lingkungan dekat atau lepaskan mereka ke ranah digital.",
+    "controlsTitle": "Kawalan dan Petua Sprunked",
+    "movementControlsTitle": "Kawalan Asas",
+    "movementControl1": "Gunakan isyarat scrat untuk mendedahkan bunyi",
+    "movementControl2": "Seret dan letakkan elemen untuk mencipta muzik",
+    "interactionControlsTitle": "Penciptaan Bunyi",
+    "interactionControl1": "Lapiskan bunyi yang berbeza untuk membina kerumitan",
+    "interactionControl2": "Ujikaji dengan pelbagai gabungan",
+    "interactionControl3": "Gunakan antara muka scrat untuk menemui kesan tersembunyi",
+    "combatControlsTitle": "Mekanik Muzik",
+    "combatControl1": "Cipta corak ritma",
+    "combatControl2": "Campur elemen bunyi yang berbeza",
+    "combatControl3": "Temui gabungan bunyi istimewa",
+    "combatControl4": "Bina komposisi berlapis",
+    "miscControlsTitle": "Teknik Lanjutan",
+    "miscControl1": "Kuasai mekanik scrat",
+    "miscControl2": "Telusuri gabungan bunyi",
+    "miscControl3": "Cipta susunan muzik yang kompleks"
+  }
+}

@@ -1,1 +1,53 @@
-{}
+{
+  "title": "Sprunked (Sprunked)",
+  "slogan": "Stvori, miješaj, doživi čaroliju!",
+  "description": "Uronite se u očaravajući svijet Sprunked, gdje stvaranje glazbe susreće inovacije kroz naš jedinstveni sustav igre temeljen na scratču.",
+  "Loading": {
+    "title": "Učitavanje Sprunked..."
+  },
+  "Home": {
+    "title": "Dobrodošli u Sprunked",
+    "description": "Otkrijte očaravajući svijet Sprunked, uzbudljivu igru koja kombinira najbolje elemente glazbene kreativnosti. Uz naš inovativni sustav igre temeljen na scratču, imat ćete moć stvarati izvanrednu glazbu kao nikad prije. Jednostavno škrapajte površinu kako biste otkrili skrivene zvukove i efekte, i gledajte kako se vaše glazbene vizije formiraju.",
+    "playNow": "Igraj Sprunked Sada",
+    "learnMore": "Saznaj Više o Sprunked",
+    "iframeTitle": "sprunked-game-iframe",
+    "fullscreenButton": "Puni ekran",
+    "shareButton": "Podijeli Sprunked",
+    "urlCopied": "Sprunked URL kopirano na剪贴板!"
+  },
+  "desc": {
+    "gameTitle": "Sprunked (Sprunked)",
+    "whatIsTitle": "Što je Sprunked?",
+    "whatIsDescription": "Sprunked je očaravajuća platforma za stvaranje glazbe koja vam omogućuje da orkestrirate jedinstvene ritmove koristeći ekstravagantne likove. To je imersivno i zabavno iskustvo koje oslobađa vaše kreativno potencijal kroz intuitivan, temeljen na scratču način igre.",
+    "howToPlayTitle": "Kako se igra Sprunked?",
+    "howToPlayStep1": "Odaberite likove, svaki s jedinstvenim zvukovima (taktovi, vokali, efekti)",
+    "howToPlayStep2": "Koristite scratčnu sučelje da otkrijete skrivene zvukove i efekte",
+    "howToPlayStep3": "Miješajte i kombinirajte elemente kako biste stvorili svoje vlastite glazbene čudo",
+    "keyFeaturesTitle": "Glavne značajke igre Sprunked",
+    "feature1Title": "Neprekinuti scratčani sučelje",
+    "feature1Description": "Uronite se u stvaranje glazbe s našim intuitivnim, korisnički orijentiranim dizajnom koji čini kompoziranje lagano.",
+    "feature2Title": "Raznolikost zvukovne biblioteke",
+    "feature2Description": "Oslobodite svoje umjetničko potencijal s našim raznolikim nizom čudnih i očaravajućih audio elemenata.",
+    "feature3Title": "Bezgranična glazbena istraživanja",
+    "feature3Description": "Otkrenite putovanje zvukovne otkriće, stvarajući jedinstvene kompozicije ograničene samo vašom maštu.",
+    "feature4Title": "Povećajte svoje stvarenja",
+    "feature4Description": "Čuvajte i šaljete svoje glazbene čudo, dijelite ih s bliskim krugom ili lansirajte ih u digitalni prostor.",
+    "controlsTitle": "Sprunked kontrole i savjeti",
+    "movementControlsTitle": "Osnovne kontrole",
+    "movementControl1": "Koristite scratčnim pokretima da otkrijete zvukove",
+    "movementControl2": "Povucite i ispustite elemente kako biste stvorili glazbu",
+    "interactionControlsTitle": "Stvaranje zvuka",
+    "interactionControl1": "Nalagajte različite zvukove kako biste stvorili složenost",
+    "interactionControl2": "Isprobajte različite kombinacije",
+    "interactionControl3": "Koristite scratčnu sučelje da otkrijete skrivene efekte",
+    "combatControlsTitle": "Glazbena mehanika",
+    "combatControl1": "Stvorite ritmičke obrasce",
+    "combatControl2": "Miješajte različite zvukove elemente",
+    "combatControl3": "Otkrijte posebne kombinacije zvuka",
+    "combatControl4": "Stvorite složene kompozicije",
+    "miscControlsTitle": "Napredne tehnike",
+    "miscControl1": "Osvojite scratčnu mehaniku",
+    "miscControl2": "Isprobajte kombinacije zvuka",
+    "miscControl3": "Stvorite složene glazbene aranžmane"
+  }
+}
