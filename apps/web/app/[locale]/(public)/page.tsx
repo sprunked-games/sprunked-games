@@ -27,12 +27,17 @@ export function generateStaticParams() {
 export async function generateMetadata({ params: { locale = defaultLocale } }: Props): Promise<Metadata> {
   unstable_setRequestLocale(locale)
   const t = await getTranslations({ locale: locale })
+  
+  // 构建 canonical URL
+  const baseUrl = process.env.NODE_ENV === 'development' ? 'http://localhost:8000' : siteConfig.domain
+  const canonicalPath = locale === defaultLocale ? '/' : `/${locale}`
+  
   return {
       title: `${t('title')} | ${t('slogan')}`,
       description: t("description"),
       alternates: {
           languages: alternatesLanguage(""),
-          canonical: process.env.NODE_ENV === 'development' ? `http://localhost:8000/${locale}` : `https://${siteConfig.domain}/${locale}`,
+          canonical: `${baseUrl}${canonicalPath}`,
       },
       icons: {
           icon: siteConfig.icon,
