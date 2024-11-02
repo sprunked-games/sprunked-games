@@ -145,7 +145,7 @@ export default function AppNavbar() {
         >
             <NavbarMenuToggle
                 aria-label={isMenuOpen ? "Close menu" : "Open menu"}
-                className="sm:hidden"
+                className="sm:hidden text-primary"
             />
 
             <NavbarBrand>
@@ -164,7 +164,7 @@ export default function AppNavbar() {
                             />
                         </Link>
                     </div>
-                    <div className="inline-flex items-end text-lg text-white w-60 mt-1 ml-4 font-leckerli">
+                    <div className="hidden md:inline-flex items-end text-lg text-white w-60 mt-1 ml-4 font-leckerli">
                         {t(siteConfig.slogan as any)}
                     </div>
                 </div>
