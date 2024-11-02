@@ -1,6 +1,6 @@
 import { alternatesLanguage, defaultLocale } from "@repo/i18n/locales";
 import { siteConfig } from "@repo/web/lib/config/site";
-import { Metadata } from "next";
+import type { Metadata } from "next";
 import { getTranslations, unstable_setRequestLocale } from "next-intl/server";
 import IframeView from "./iframe_view";
 

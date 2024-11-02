@@ -9,7 +9,7 @@ import {
   HeadphonesIcon,
   ImagePlus,
 } from "lucide-react";
-import { Metadata } from "next";
+import type { Metadata } from "next";
 import { getTranslations, unstable_setRequestLocale } from "next-intl/server";
 import { siteConfig } from "@repo/web/lib/config/site";
 import FAQ from "@repo/web/lib/components/faq";
@@ -32,6 +32,7 @@ export async function generateMetadata({ params: { locale = defaultLocale } }: P
       description: t("description"),
       alternates: {
           languages: alternatesLanguage(""),
+          canonical: process.env.NODE_ENV === 'development' ? `http://localhost:8000/${locale}` : `https://${siteConfig.domain}/${locale}`,
       },
       icons: {
           icon: siteConfig.icon,
