@@ -1,0 +1,41 @@
+node_modules
+# VSCode
+*.code-workspace
+.turbo
+apps/web/.next
+apps/web/.turbo
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 编辑器和IDE通用
+*.swp
+*.swo
+*~
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 构建输出
+/dist
+/build
+/out
+
+# 依赖目录（如果不在根目录）
+/vendor
+/bower_components
+
+
+# 缓存目录
+.cache/
+apps/web/.env.local

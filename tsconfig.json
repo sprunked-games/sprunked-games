@@ -1,0 +1,12 @@
+{
+  "extends": "@repo/typescript-config/base.json",
+  "types": [
+    "vitest/globals"
+  ],
+  "include": [
+    "packages",
+    "apps",
+    "vitest.config.ts",
+    "vitest.workspace.ts"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "$schema": "https://turbo.build/schema.json",
+  "globalDependencies": [
+    "**/.env.*local"
+  ],
+  "tasks": {
+    "db:generate": {
+      "cache": false
+    },
+    "db:push": {
+      "cache": false
+    },
+    "db:dasborad": {
+      "cache": false
+    },
+    "db:migrate": {
+      "cache": false
+    },
+    "db:rest": {
+      "cache": false
+    },
+    "build": {
+      "dependsOn": [
+        "db:generate",
+        "^build"
+      ],
+      "outputs": [
+        ".next/**",
+        "!.next/cache/**",
+        "dist/**"
+      ]
+    },
+    "format-and-lint": {
+      "dependsOn": [
+        "^format-and-lint"
+      ]
+    },
+    "deploy": {},
+    "start": {},
+    "start:web": {
+      "cache": false,
+      "persistent": true,
+      "inputs": ["apps/web/**/*"]
+    },
+    "test": {
+      "outputs": []
+    },
+    "test:watch": {
+      "cache": false
+    },
+    "dev": {
+      "env": [
+        "NODE_ENV=development"
+      ],
+      "dependsOn": [
+        "db:generate"
+      ],
+      "cache": false,
+      "persistent": true
+    }
+  
+  }
+}

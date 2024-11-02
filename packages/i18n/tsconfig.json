@@ -1,0 +1,11 @@
+{
+	"extends": "@repo/typescript-config/base.json",
+	"compilerOptions": {
+		"baseUrl": ".",
+		"rootDir": ".",
+		"paths": {
+			"@repo/i18n/*": ["./messages/*"]
+		}
+	},
+	"exclude": ["node_modules", "dist"]
+}

@@ -1,0 +1,25 @@
+{
+	"i18n-ally.localesPaths": ["apps/web/messages"],
+	"i18n-ally.displayLanguage": "en",
+	"i18n-ally.sourceLanguage": "en",
+	"i18n-ally.keystyle": "nested",
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
+	"editor.quickSuggestions": {
+		"other": "on",
+		"comments": "off",
+		"strings": "on"
+	},
+	"tailwindCSS.includeLanguages": {
+		"plaintext": "html",
+		"react": "jsx"
+	},
+	"svg.preview.background": "transparent",
+	"context": "Editor",
+	"bindings": {
+		"alt-shift-w": "editor::SelectLargerSyntaxNode"
+	},
+	"WillLuke.nextjs.addTypesOnSave": true,
+	"WillLuke.nextjs.hasPrompted": true
+}

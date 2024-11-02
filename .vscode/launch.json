@@ -1,0 +1,56 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "dev",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run-script", "dev"],
+			"console": "integratedTerminal",
+			"internalConsoleOptions": "neverOpen"
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "build",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run-script", "build"],
+			"console": "integratedTerminal",
+			"internalConsoleOptions": "neverOpen"
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "start:web",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run-script", "start:web"],
+			"console": "integratedTerminal",
+			"internalConsoleOptions": "neverOpen"
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "选择命令",
+			"runtimeExecutable": "npm",
+			"runtimeArgs": ["run-script", "${input:npmScript}"],
+			"console": "integratedTerminal",
+			"internalConsoleOptions": "neverOpen"
+		}
+	],
+	"inputs": [
+		{
+			"id": "npmScript",
+			"type": "pickString",
+			"description": "选择要运行的 npm 脚本",
+			"options": [
+				"start:web",
+				"dev",
+				"build",
+				"db:generate",
+				"db:migrate"
+			],
+			"default": "dev"
+		}
+	]
+}

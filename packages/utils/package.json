@@ -1,0 +1,25 @@
+{
+	"name": "@repo/utils",
+	"type": "module",
+	"scripts": {
+		"dev": "tsc --watch",
+		"build": "tsc"
+	},
+	"exports": {
+		"./*": "./src/*.ts"
+	},
+	"devDependencies": {
+		"@repo/tailwind-config": "*",
+		"@repo/typescript-config": "*",
+		"@turbo/gen": "^1.12.4",
+		"@types/eslint": "^8.56.5",
+		"@types/next": "latest",
+		"@types/node": "^20.11.24",
+		"@types/react": "^18.2.61",
+		"@types/react-dom": "^18.2.19",
+		"eslint": "^8.57.0",
+		"next": "^14.2.5",
+		"react": "^18.2.0",
+		"typescript": "latest"
+	}
+}
