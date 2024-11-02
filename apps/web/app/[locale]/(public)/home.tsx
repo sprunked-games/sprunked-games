@@ -16,7 +16,7 @@ export default async function Home({ params: { locale = defaultLocale } }: Props
     <div className="bg-black text-white flex flex-col items-center justify-center p-4 pt-0">
       <div className=" text-gray-100 p-6 pt-2 max-w-6xl mx-auto rounded-lg shadow-lg w-full">
         <div className="flex flex-col">
-          <h1 className="text-2xl md:text-5xl font-bold text-center mb-4 text-yellow-300 font-leckerli">{t('title')}</h1>
+          <div className="text-2xl md:text-5xl font-bold text-center mb-4 text-yellow-300 font-leckerli">{t('title')}</div>
           <p className="text-sm md:text-xl mb-4 text-gray-200 w-full max-w-3xl mx-auto text-center">
             {t('description')}
           </p>
