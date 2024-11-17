@@ -25,7 +25,7 @@ export default async function LocaleLayout({
   const messages = await getMessages();
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
-      <PlausibleProvider domain={siteConfig.domain}>
+      <PlausibleProvider domain={siteConfig.domain} customDomain="https://plausible.online" selfHosted>
         <NextUIProvider>
           <Toaster />
           <Navbar />
